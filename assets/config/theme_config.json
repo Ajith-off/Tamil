@@ -1,0 +1,42 @@
+{
+  "colors": {
+    "background": "#FFF6E2",
+    "backgroundGlow": "#FFE7AE",
+    "primary": "#FF8C42",
+    "secondary": "#4CC9F0",
+    "canvasBackground": "#FFFCF2",
+    "letterTube": "#E6DCC2",
+    "letterTubeEdge": "#D3C6A4",
+    "dot": "#8A7A55",
+    "traceStart": "#FFD166",
+    "traceEnd": "#FF8C42",
+    "sparkle": "#FFC94D",
+    "ink": "#4A3F2A",
+    "success": "#2EC4B6",
+    "retry": "#EF476F",
+    "starFilled": "#FFC53D",
+    "starEmpty": "#E8E0CC",
+    "textPrimary": "#4A3F2A",
+    "textSecondary": "#8A7A55"
+  },
+  "darkColors": {
+    "background": "#141A2E",
+    "backgroundGlow": "#1E2745",
+    "primary": "#FF8C42",
+    "secondary": "#4CC9F0",
+    "canvasBackground": "#1C2440",
+    "letterTube": "#2A3357",
+    "letterTubeEdge": "#3A4570",
+    "dot": "#9088B0",
+    "traceStart": "#FFD166",
+    "traceEnd": "#FF8C42",
+    "sparkle": "#FFC94D",
+    "ink": "#EDEAF6",
+    "success": "#2EC4B6",
+    "retry": "#EF476F",
+    "starFilled": "#FFC53D",
+    "starEmpty": "#3A4570",
+    "textPrimary": "#F2F0FA",
+    "textSecondary": "#ABA4CC"
+  }
+}

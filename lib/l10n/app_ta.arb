@@ -1,0 +1,389 @@
+{
+  "@@locale": "ta",
+  "appTitle": "Kids: அஆஇஈ தமிழ் எழுத்து",
+  "@appTitle": {
+    "description": "The app's name, shown as the window/task title."
+  },
+  "watchAgain": "மீண்டும் பார்",
+  "@watchAgain": {
+    "description": "Button that replays the animated stroke-order demo."
+  },
+  "startTracing": "எழுத ஆரம்பி",
+  "@startTracing": {
+    "description": "Button that skips or ends the demo and starts tracing."
+  },
+  "clear": "அழி",
+  "@clear": {
+    "description": "Button that clears the child's trace and starts the letter over."
+  },
+  "nextLetter": "அடுத்த எழுத்து",
+  "@nextLetter": {
+    "description": "Button that moves on to the next letter after finishing one."
+  },
+  "exampleWordLabel": "உதாரணச் சொல்",
+  "@exampleWordLabel": {
+    "description": "Label introducing the example word shown for a letter."
+  },
+  "scoreLabel": "மதிப்பெண்",
+  "@scoreLabel": {
+    "description": "Label shown before the numeric score, e.g. 'மதிப்பெண்: 42/50'."
+  },
+  "encouragementSuccess": "அருமை!",
+  "@encouragementSuccess": {
+    "description": "Encouraging message shown after a passing attempt (>=1 star)."
+  },
+  "encouragementRetry": "மீண்டும் முயற்சி செய்!",
+  "@encouragementRetry": {
+    "description": "Gentle message shown after a non-passing attempt (0 stars)."
+  },
+  "tutorialHint": "விரலால் புள்ளிகளைத் தொடர்ந்து செல்",
+  "@tutorialHint": {
+    "description": "Hint telling the child to drag their finger along the dots."
+  },
+  "modeEasy": "எளிது",
+  "@modeEasy": {
+    "description": "Label for the Easy mode: letter tube plus dots showing where to drag."
+  },
+  "modeMedium": "நடுத்தரம்",
+  "@modeMedium": {
+    "description": "Label for the Medium mode: letter tube shown, but no dots."
+  },
+  "modeHard": "கடினம்",
+  "@modeHard": {
+    "description": "Label for the Hard mode: blank canvas, but the finger is still guided along the hidden path."
+  },
+  "modeSpecial": "சவால்",
+  "@modeSpecial": {
+    "description": "Label for the Special mode: freehand drawing, judged on shape only when submitted."
+  },
+  "submit": "சமர்ப்பி",
+  "@submit": {
+    "description": "Button that submits a freehand attempt to be scored."
+  },
+  "freeDrawHint": "எழுத்தை நீயே எழுதிப் பார்",
+  "@freeDrawHint": {
+    "description": "Hint shown in the freehand exam mode, telling the child to write the letter themselves."
+  },
+  "categoryUyir": "உயிர் எழுத்து",
+  "@categoryUyir": {
+    "description": "Title of the uyir (vowel) letter category."
+  },
+  "categoryMei": "மெய் எழுத்து",
+  "@categoryMei": {
+    "description": "Title of the mei (pure consonant) letter category."
+  },
+  "categoryUyirmei": "உயிர்மெய் எழுத்து",
+  "@categoryUyirmei": {
+    "description": "Title of the uyirmei (consonant-vowel) letter category."
+  },
+  "games": "விளையாட்டு",
+  "@games": {
+    "description": "Title of the games section, and the tile that opens it."
+  },
+  "gameWordBuilder": "சொல் கட்டு",
+  "@gameWordBuilder": {
+    "description": "Name of the Word Builder game."
+  },
+  "wordBuilderHint": "எழுத்தை இழுத்து அதன் இடத்தில் வை",
+  "@wordBuilderHint": {
+    "description": "Tells the child to drag a letter tile into its box."
+  },
+  "wordBuilderDone": "சொல் முடிந்தது!",
+  "@wordBuilderDone": {
+    "description": "Shown when every box of the word has been filled correctly."
+  },
+  "categoryVadamozhi": "வடமொழி எழுத்துக்கள்",
+  "@categoryVadamozhi": {
+    "description": "Title of the grantha letter category — the six letters ஜ ஷ ஸ ஹ க்ஷ ஸ்ரீ, which are outside the 247."
+  },
+  "groupRow": "{letter} வரிசை",
+  "@groupRow": {
+    "description": "Names a uyirmei consonant row, e.g. 'க வரிசை' for the 12 letters built on க.",
+    "placeholders": {
+      "letter": {
+        "type": "String",
+        "example": "க"
+      }
+    }
+  },
+  "pickAGroup": "ஒரு வரிசையைத் தேர்ந்தெடு",
+  "@pickAGroup": {
+    "description": "Instruction on the uyirmei group screen telling the child to pick one consonant row."
+  },
+  "tapALetter": "எழுத்தைத் தொடு",
+  "@tapALetter": {
+    "description": "Instruction on the letter list telling the child to tap a letter to begin."
+  },
+  "categoryEmpty": "விரைவில் வரும்",
+  "@categoryEmpty": {
+    "description": "Shown in place of the tap-a-letter hint when a category has no letters ready to trace yet."
+  },
+  "tryAgain": "மீண்டும்",
+  "@tryAgain": {
+    "description": "Prominent button shown after finishing a letter, to write it again."
+  },
+  "playAgain": "மீண்டும்",
+  "@playAgain": {
+    "description": "Button that replays the same word."
+  },
+  "done": "சரி",
+  "@done": {
+    "description": "Button that accepts the finished word and goes back."
+  },
+  "coinEarned": "+1",
+  "@coinEarned": {
+    "description": "Shown beside a coin when a clean round earned one."
+  },
+  "needHearts": "இதயம் வாங்க ஒரு நாணயம்",
+  "@needHearts": {
+    "description": "Explains that a coin buys more hearts."
+  },
+  "noHearts": "இதயம் இல்லை",
+  "@noHearts": {
+    "description": "Shown when there are no hearts left to open a word."
+  },
+  "tutorialDrag": "இப்படி இழு",
+  "@tutorialDrag": {
+    "description": "Caption over the opening demonstration: drag like this."
+  },
+  "wordGame": "எழுத்து விளையாட்டு",
+  "@wordGame": {
+    "description": "Title of the word game, on the home picker and its own screen."
+  },
+  "countedLabel": "{label} ({count})",
+  "@countedLabel": {
+    "description": "A category name with how many characters are in it, e.g. \"உயிர் எழுத்து (13)\".",
+    "placeholders": {
+      "label": {
+        "type": "String",
+        "example": "உயிர் எழுத்து"
+      },
+      "count": {
+        "type": "String",
+        "example": "12+1"
+      }
+    }
+  },
+  "appTitleCounted": "{title} — {count}",
+  "@appTitleCounted": {
+    "description": "The app name on the home screen with how many characters it teaches, e.g. \"அஆஇஈ தமிழ் எழுத்து — 247\".",
+    "placeholders": {
+      "title": {
+        "type": "String",
+        "example": "அஆஇஈ தமிழ் எழுத்து"
+      },
+      "count": {
+        "type": "String",
+        "example": "247"
+      }
+    }
+  },
+  "quit": "வெளியேறு",
+  "@quit": {
+    "description": "Closes the app, from the home screen."
+  },
+  "parentZone": "பெற்றோர் பகுதி",
+  "@parentZone": {
+    "description": "Title of the Parent Zone tile on the home screen, and of the screen it opens."
+  },
+  "parentalGateTitle": "பெற்றோர் அனுமதி",
+  "@parentalGateTitle": {
+    "description": "Title of the parental gate shown before entering the Parent Zone."
+  },
+  "parentalGateInstruction": "சரியான பதிலைத் தேர்ந்தெடு",
+  "@parentalGateInstruction": {
+    "description": "Instruction on the parental gate: pick the correct answer to the sum shown."
+  },
+  "parentalGateQuestion": "{a} + {b} = ?",
+  "@parentalGateQuestion": {
+    "description": "The addition question on the parental gate, e.g. '7 + 8 = ?'.",
+    "placeholders": {
+      "a": {"type": "String", "example": "7"},
+      "b": {"type": "String", "example": "8"}
+    }
+  },
+  "adPlaying": "விளம்பரம் ஏற்றப்படுகிறது…",
+  "@adPlaying": {
+    "description": "Shown in a loading dialog while the rewarded ad is being fetched from AdMob, before it appears full-screen."
+  },
+  "watchAdEarnCoin": "நாணயம் பெற விளம்பரம் பார்",
+  "@watchAdEarnCoin": {
+    "description": "Parent Zone row: watch a rewarded ad to earn a coin."
+  },
+  "watchAdEarnCoinHint": "{coins} நாணயம் கிடைக்கும்",
+  "@watchAdEarnCoinHint": {
+    "description": "Subtitle under the watch-ad row saying how many coins it pays.",
+    "placeholders": {
+      "coins": {"type": "String", "example": "1"}
+    }
+  },
+  "adRewardEarned": "நாணயம் கிடைத்தது!",
+  "@adRewardEarned": {
+    "description": "Shown after a rewarded ad is watched all the way through."
+  },
+  "adUnavailable": "இப்போது விளம்பரம் இல்லை. பிறகு முயற்சி செய்க.",
+  "@adUnavailable": {
+    "description": "Shown when the rewarded ad fails to load or show (e.g. no fill), so a grown-up gets feedback instead of the row silently doing nothing."
+  },
+  "certificate": "சான்றிதழ்",
+  "@certificate": {
+    "description": "Parent Zone row, and title of the certificate screen it opens."
+  },
+  "certificateScoreLine": "{score} / 100",
+  "@certificateScoreLine": {
+    "description": "The certificate's total, e.g. '62 / 100'.",
+    "placeholders": {
+      "score": {"type": "String", "example": "62"}
+    }
+  },
+  "certAllStarred": "247 எழுத்துப் பயிற்சி மதிப்பெண்கள்",
+  "@certAllStarred": {
+    "description": "Certificate line: marks earned across all 247 core letters holding at least one star, out of 50."
+  },
+  "certUyir": "உயிர் எழுத்துக்களை வழிகாட்டுதல் இல்லாமல் முழுமையாக எழுதலாம்",
+  "@certUyir": {
+    "description": "Certificate line: able to write uyir letters fully without guidance (three stars on every one)."
+  },
+  "certMei": "மெய் எழுத்துக்களை வழிகாட்டுதல் இல்லாமல் முழுமையாக எழுதலாம்",
+  "@certMei": {
+    "description": "Certificate line: able to write mei letters fully without guidance (three stars on every one)."
+  },
+  "certUyirmei": "உயிர்மெய் எழுத்துக்களை வழிகாட்டுதல் இல்லாமல் முழுமையாக எழுதலாம்",
+  "@certUyirmei": {
+    "description": "Certificate line: able to write uyirmei letters fully without guidance (three stars on every one)."
+  },
+  "certGame": "எழுத்து விளையாட்டுத் தேர்வை முடித்தார்",
+  "@certGame": {
+    "description": "Certificate line: completed the letter game exam (every Word Builder word cleared without a wrong drop)."
+  },
+  "certMarksLine": "+{marks}",
+  "@certMarksLine": {
+    "description": "Marks a certificate line is worth, shown beside it, e.g. '+10'.",
+    "placeholders": {
+      "marks": {"type": "String", "example": "10"}
+    }
+  },
+  "certMarksFraction": "{marks}/{maxMarks}",
+  "@certMarksFraction": {
+    "description": "Marks actually earned on a certificate line, out of its possible marks, e.g. '1/50'.",
+    "placeholders": {
+      "marks": {"type": "String", "example": "1"},
+      "maxMarks": {"type": "String", "example": "50"}
+    }
+  },
+  "certificateIntro": "இது சான்றளிக்கிறது",
+  "@certificateIntro": {
+    "description": "Certificate line above the name field: 'This certifies that'."
+  },
+  "certificateNamePlaceholder": "பெயரை உள்ளிடவும்",
+  "@certificateNamePlaceholder": {
+    "description": "Placeholder in the certificate's editable name field."
+  },
+  "certificateBody": "{title} பயிற்சியில் ஈடுபட்டு பின்வரும் மதிப்பெண்களைப் பெற்றுள்ளார்",
+  "@certificateBody": {
+    "description": "Certificate sentence naming the app and introducing the marks below.",
+    "placeholders": {
+      "title": {"type": "String", "example": "அஆஇஈ தமிழ் எழுத்து"}
+    }
+  },
+  "certificateDateLabel": "தேதி: {date}",
+  "@certificateDateLabel": {
+    "description": "Date line at the foot of the certificate.",
+    "placeholders": {
+      "date": {"type": "String", "example": "08/08/2026"}
+    }
+  },
+  "certificateHowCalculated": "மதிப்பெண் எப்படி கணக்கிடப்படுகிறது?",
+  "@certificateHowCalculated": {
+    "description": "Button/dialog title explaining how the certificate's 100 marks are worked out."
+  },
+  "certificateHowCalculatedIntro": "மொத்தம் 100 மதிப்பெண்களில்:",
+  "@certificateHowCalculatedIntro": {
+    "description": "Intro line in the marks-explanation dialog, before the breakdown list."
+  },
+  "certificateExport": "பதிவிறக்கு",
+  "@certificateExport": {
+    "description": "Button that exports/shares the certificate as an image."
+  },
+  "certificateExportFailed": "சான்றிதழைச் சேமிக்க முடியவில்லை",
+  "@certificateExportFailed": {
+    "description": "Shown when exporting the certificate image fails."
+  },
+  "certificateShareText": "{name} இன் {title} சான்றிதழ்",
+  "@certificateShareText": {
+    "description": "Text handed to the share sheet when exporting a named certificate.",
+    "placeholders": {
+      "name": {"type": "String", "example": "மீரா"},
+      "title": {"type": "String", "example": "அஆஇஈ தமிழ் எழுத்து"}
+    }
+  },
+  "certificateShareTextNoName": "{title} முன்னேற்றச் சான்றிதழ்",
+  "@certificateShareTextNoName": {
+    "description": "Text handed to the share sheet when exporting a certificate with no name typed in yet.",
+    "placeholders": {
+      "title": {"type": "String", "example": "அஆஇஈ தமிழ் எழுத்து"}
+    }
+  },
+  "themeLight": "பகல் தீம்",
+  "@themeLight": {
+    "description": "Tooltip on the home screen's theme toggle when the light (sun) theme is active."
+  },
+  "themeDark": "இரவு தீம்",
+  "@themeDark": {
+    "description": "Tooltip on the home screen's theme toggle when the dark (moon) theme is active."
+  },
+  "projectDetails": "திட்ட விவரங்கள்",
+  "@projectDetails": {
+    "description": "Parent Zone row that opens the project details link."
+  },
+  "privacyPolicy": "தனியுரிமைக் கொள்கை",
+  "@privacyPolicy": {
+    "description": "Parent Zone row that opens the privacy policy link."
+  },
+  "versionLabel": "பதிப்பு {version}",
+  "@versionLabel": {
+    "description": "The app's version, shown in the Parent Zone.",
+    "placeholders": {
+      "version": {"type": "String", "example": "1.0.0 (1)"}
+    }
+  },
+  "copyrightLine": "© {year} அஆஇஈ தமிழ் எழுத்து",
+  "@copyrightLine": {
+    "description": "Copyright line shown in the Parent Zone.",
+    "placeholders": {
+      "year": {"type": "String", "example": "2026"}
+    }
+  },
+  "linkOpenFailed": "இணைப்பைத் திறக்க முடியவில்லை",
+  "@linkOpenFailed": {
+    "description": "Shown when an outbound link (project details, privacy policy) could not be opened."
+  },
+  "shareApp": "ஆப்பைப் பகிர்",
+  "@shareApp": {
+    "description": "Parent Zone row that opens the platform share sheet to share the app itself."
+  },
+  "shareAppText": "{title} ஆப்பை முயற்சி செய்யுங்கள்: {url}",
+  "@shareAppText": {
+    "description": "The text handed to the platform share sheet when sharing the app, e.g. 'Try AAIE Tamil Ezhuthu: <url>'.",
+    "placeholders": {
+      "title": {"type": "String", "example": "அஆஇஈ தமிழ் எழுத்து"},
+      "url": {"type": "String", "example": "https://play.google.com/store/apps/details?id=..."}
+    }
+  },
+  "settingsLanguage": "மொழி",
+  "@settingsLanguage": {
+    "description": "Parent Zone row: switches the app between Tamil and English."
+  },
+  "settingsMusic": "பின்னணி இசை",
+  "@settingsMusic": {
+    "description": "Parent Zone row: toggles background music on or off."
+  },
+  "settingsSound": "ஒலி விளைவுகள்",
+  "@settingsSound": {
+    "description": "Parent Zone row: toggles click and celebration sound effects, and letter speech, on or off."
+  },
+  "replayLetterSound": "எழுத்தைக் கேள்",
+  "@replayLetterSound": {
+    "description": "Speaker icon on the tracing screen (uyir only, for now) that replays the letter's pronunciation."
+  }
+}

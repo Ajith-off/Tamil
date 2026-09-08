@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "word_01",
+    "order": 1,
+    "tamil": "ஈ",
+    "english": "housefly",
+    "image": "assets/images/words/word_01.png",
+    "slots": [
+      {
+        "char": "ஈ",
+        "tiles": [
+          "ஈ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_02",
+    "order": 2,
+    "tamil": "பூ",
+    "english": "flower",
+    "image": "assets/images/words/word_02.png",
+    "slots": [
+      {
+        "char": "பூ",
+        "tiles": [
+          "ப்",
+          "ஊ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_03",
+    "order": 3,
+    "tamil": "ஆடு",
+    "english": "goat",
+    "image": "assets/images/words/word_03.png",
+    "slots": [
+      {
+        "char": "ஆ",
+        "tiles": [
+          "ஆ"
+        ]
+      },
+      {
+        "char": "டு",
+        "tiles": [
+          "ட்",
+          "உ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_04",
+    "order": 4,
+    "tamil": "ஆமை",
+    "english": "turtle",
+    "image": "assets/images/words/word_04.png",
+    "slots": [
+      {
+        "char": "ஆ",
+        "tiles": [
+          "ஆ"
+        ]
+      },
+      {
+        "char": "மை",
+        "tiles": [
+          "ம்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_05",
+    "order": 5,
+    "tamil": "இலை",
+    "english": "leaf",
+    "image": "assets/images/words/word_05.png",
+    "slots": [
+      {
+        "char": "இ",
+        "tiles": [
+          "இ"
+        ]
+      },
+      {
+        "char": "லை",
+        "tiles": [
+          "ல்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_06",
+    "order": 6,
+    "tamil": "ஊதா",
+    "english": "violet crayon",
+    "image": "assets/images/words/word_06.png",
+    "slots": [
+      {
+        "char": "ஊ",
+        "tiles": [
+          "ஊ"
+        ]
+      },
+      {
+        "char": "தா",
+        "tiles": [
+          "த்",
+          "ஆ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_07",
+    "order": 7,
+    "tamil": "எலி",
+    "english": "mouse",
+    "image": "assets/images/words/word_07.png",
+    "slots": [
+      {
+        "char": "எ",
+        "tiles": [
+          "எ"
+        ]
+      },
+      {
+        "char": "லி",
+        "tiles": [
+          "ல்",
+          "இ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_08",
+    "order": 8,
+    "tamil": "ஏணி",
+    "english": "ladder",
+    "image": "assets/images/words/word_08.png",
+    "slots": [
+      {
+        "char": "ஏ",
+        "tiles": [
+          "ஏ"
+        ]
+      },
+      {
+        "char": "ணி",
+        "tiles": [
+          "ண்",
+          "இ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_09",
+    "order": 9,
+    "tamil": "கண்",
+    "english": "eye",
+    "image": "assets/images/words/word_09.png",
+    "slots": [
+      {
+        "char": "க",
+        "tiles": [
+          "க்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ண்",
+        "tiles": [
+          "ண்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_10",
+    "order": 10,
+    "tamil": "நாய்",
+    "english": "dog",
+    "image": "assets/images/words/word_10.png",
+    "slots": [
+      {
+        "char": "நா",
+        "tiles": [
+          "ந்",
+          "ஆ"
+        ]
+      },
+      {
+        "char": "ய்",
+        "tiles": [
+          "ய்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_11",
+    "order": 11,
+    "tamil": "மீன்",
+    "english": "fish",
+    "image": "assets/images/words/word_11.png",
+    "slots": [
+      {
+        "char": "மீ",
+        "tiles": [
+          "ம்",
+          "ஈ"
+        ]
+      },
+      {
+        "char": "ன்",
+        "tiles": [
+          "ன்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_12",
+    "order": 12,
+    "tamil": "காடு",
+    "english": "forest",
+    "image": "assets/images/words/word_12.png",
+    "slots": [
+      {
+        "char": "கா",
+        "tiles": [
+          "க்",
+          "ஆ"
+        ]
+      },
+      {
+        "char": "டு",
+        "tiles": [
+          "ட்",
+          "உ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_13",
+    "order": 13,
+    "tamil": "காடை",
+    "english": "quail",
+    "image": "assets/images/words/word_13.png",
+    "slots": [
+      {
+        "char": "கா",
+        "tiles": [
+          "க்",
+          "ஆ"
+        ]
+      },
+      {
+        "char": "டை",
+        "tiles": [
+          "ட்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_14",
+    "order": 14,
+    "tamil": "குகை",
+    "english": "cave",
+    "image": "assets/images/words/word_14.png",
+    "slots": [
+      {
+        "char": "கு",
+        "tiles": [
+          "க்",
+          "உ"
+        ]
+      },
+      {
+        "char": "கை",
+        "tiles": [
+          "க்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_15",
+    "order": 15,
+    "tamil": "குடை",
+    "english": "umbrella",
+    "image": "assets/images/words/word_15.png",
+    "slots": [
+      {
+        "char": "கு",
+        "tiles": [
+          "க்",
+          "உ"
+        ]
+      },
+      {
+        "char": "டை",
+        "tiles": [
+          "ட்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_16",
+    "order": 16,
+    "tamil": "கூடு",
+    "english": "nest",
+    "image": "assets/images/words/word_16.png",
+    "slots": [
+      {
+        "char": "கூ",
+        "tiles": [
+          "க்",
+          "ஊ"
+        ]
+      },
+      {
+        "char": "டு",
+        "tiles": [
+          "ட்",
+          "உ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_17",
+    "order": 17,
+    "tamil": "கோழி",
+    "english": "hen",
+    "image": "assets/images/words/word_17.png",
+    "slots": [
+      {
+        "char": "கோ",
+        "tiles": [
+          "க்",
+          "ஓ"
+        ]
+      },
+      {
+        "char": "ழி",
+        "tiles": [
+          "ழ்",
+          "இ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_18",
+    "order": 18,
+    "tamil": "தேனீ",
+    "english": "bee",
+    "image": "assets/images/words/word_18.png",
+    "slots": [
+      {
+        "char": "தே",
+        "tiles": [
+          "த்",
+          "ஏ"
+        ]
+      },
+      {
+        "char": "னீ",
+        "tiles": [
+          "ன்",
+          "ஈ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_19",
+    "order": 19,
+    "tamil": "பசு",
+    "english": "cow",
+    "image": "assets/images/words/word_19.png",
+    "slots": [
+      {
+        "char": "ப",
+        "tiles": [
+          "ப்",
+          "அ"
+        ]
+      },
+      {
+        "char": "சு",
+        "tiles": [
+          "ச்",
+          "உ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_20",
+    "order": 20,
+    "tamil": "பனி",
+    "english": "snow",
+    "image": "assets/images/words/word_20.png",
+    "slots": [
+      {
+        "char": "ப",
+        "tiles": [
+          "ப்",
+          "அ"
+        ]
+      },
+      {
+        "char": "னி",
+        "tiles": [
+          "ன்",
+          "இ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_21",
+    "order": 21,
+    "tamil": "புலி",
+    "english": "tiger",
+    "image": "assets/images/words/word_21.png",
+    "slots": [
+      {
+        "char": "பு",
+        "tiles": [
+          "ப்",
+          "உ"
+        ]
+      },
+      {
+        "char": "லி",
+        "tiles": [
+          "ல்",
+          "இ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_22",
+    "order": 22,
+    "tamil": "பூனை",
+    "english": "cat",
+    "image": "assets/images/words/word_22.png",
+    "slots": [
+      {
+        "char": "பூ",
+        "tiles": [
+          "ப்",
+          "ஊ"
+        ]
+      },
+      {
+        "char": "னை",
+        "tiles": [
+          "ன்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_23",
+    "order": 23,
+    "tamil": "மணி",
+    "english": "bell",
+    "image": "assets/images/words/word_23.png",
+    "slots": [
+      {
+        "char": "ம",
+        "tiles": [
+          "ம்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ணி",
+        "tiles": [
+          "ண்",
+          "இ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_24",
+    "order": 24,
+    "tamil": "மழை",
+    "english": "rain",
+    "image": "assets/images/words/word_24.png",
+    "slots": [
+      {
+        "char": "ம",
+        "tiles": [
+          "ம்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ழை",
+        "tiles": [
+          "ழ்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_25",
+    "order": 25,
+    "tamil": "யானை",
+    "english": "elephant",
+    "image": "assets/images/words/word_25.png",
+    "slots": [
+      {
+        "char": "யா",
+        "tiles": [
+          "ய்",
+          "ஆ"
+        ]
+      },
+      {
+        "char": "னை",
+        "tiles": [
+          "ன்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_26",
+    "order": 26,
+    "tamil": "வலை",
+    "english": "net",
+    "image": "assets/images/words/word_26.png",
+    "slots": [
+      {
+        "char": "வ",
+        "tiles": [
+          "வ்",
+          "அ"
+        ]
+      },
+      {
+        "char": "லை",
+        "tiles": [
+          "ல்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_27",
+    "order": 27,
+    "tamil": "அணில்",
+    "english": "squirrel",
+    "image": "assets/images/words/word_27.png",
+    "slots": [
+      {
+        "char": "அ",
+        "tiles": [
+          "அ"
+        ]
+      },
+      {
+        "char": "ணி",
+        "tiles": [
+          "ண்",
+          "இ"
+        ]
+      },
+      {
+        "char": "ல்",
+        "tiles": [
+          "ல்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_28",
+    "order": 28,
+    "tamil": "இஞ்சி",
+    "english": "ginger",
+    "image": "assets/images/words/word_28.png",
+    "slots": [
+      {
+        "char": "இ",
+        "tiles": [
+          "இ"
+        ]
+      },
+      {
+        "char": "ஞ்",
+        "tiles": [
+          "ஞ்"
+        ]
+      },
+      {
+        "char": "சி",
+        "tiles": [
+          "ச்",
+          "இ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_29",
+    "order": 29,
+    "tamil": "உரல்",
+    "english": "mortar",
+    "image": "assets/images/words/word_29.png",
+    "slots": [
+      {
+        "char": "உ",
+        "tiles": [
+          "உ"
+        ]
+      },
+      {
+        "char": "ர",
+        "tiles": [
+          "ர்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ல்",
+        "tiles": [
+          "ல்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_30",
+    "order": 30,
+    "tamil": "ஐந்து",
+    "english": "hand / five",
+    "image": "assets/images/words/word_30.png",
+    "slots": [
+      {
+        "char": "ஐ",
+        "tiles": [
+          "ஐ"
+        ]
+      },
+      {
+        "char": "ந்",
+        "tiles": [
+          "ந்"
+        ]
+      },
+      {
+        "char": "து",
+        "tiles": [
+          "த்",
+          "உ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_31",
+    "order": 31,
+    "tamil": "ஓணான்",
+    "english": "monitor lizard",
+    "image": "assets/images/words/word_31.png",
+    "slots": [
+      {
+        "char": "ஓ",
+        "tiles": [
+          "ஓ"
+        ]
+      },
+      {
+        "char": "ணா",
+        "tiles": [
+          "ண்",
+          "ஆ"
+        ]
+      },
+      {
+        "char": "ன்",
+        "tiles": [
+          "ன்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_32",
+    "order": 32,
+    "tamil": "குளம்",
+    "english": "pond",
+    "image": "assets/images/words/word_32.png",
+    "slots": [
+      {
+        "char": "கு",
+        "tiles": [
+          "க்",
+          "உ"
+        ]
+      },
+      {
+        "char": "ள",
+        "tiles": [
+          "ள்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ம்",
+        "tiles": [
+          "ம்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_33",
+    "order": 33,
+    "tamil": "கோப்பை",
+    "english": "cup",
+    "image": "assets/images/words/word_33.png",
+    "slots": [
+      {
+        "char": "கோ",
+        "tiles": [
+          "க்",
+          "ஓ"
+        ]
+      },
+      {
+        "char": "ப்",
+        "tiles": [
+          "ப்"
+        ]
+      },
+      {
+        "char": "பை",
+        "tiles": [
+          "ப்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_34",
+    "order": 34,
+    "tamil": "சங்கு",
+    "english": "conch",
+    "image": "assets/images/words/word_34.png",
+    "slots": [
+      {
+        "char": "ச",
+        "tiles": [
+          "ச்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ங்",
+        "tiles": [
+          "ங்"
+        ]
+      },
+      {
+        "char": "கு",
+        "tiles": [
+          "க்",
+          "உ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_35",
+    "order": 35,
+    "tamil": "சட்டை",
+    "english": "shirt",
+    "image": "assets/images/words/word_35.png",
+    "slots": [
+      {
+        "char": "ச",
+        "tiles": [
+          "ச்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ட்",
+        "tiles": [
+          "ட்"
+        ]
+      },
+      {
+        "char": "டை",
+        "tiles": [
+          "ட்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_36",
+    "order": 36,
+    "tamil": "தொப்பி",
+    "english": "hat",
+    "image": "assets/images/words/word_36.png",
+    "slots": [
+      {
+        "char": "தொ",
+        "tiles": [
+          "த்",
+          "ஒ"
+        ]
+      },
+      {
+        "char": "ப்",
+        "tiles": [
+          "ப்"
+        ]
+      },
+      {
+        "char": "பி",
+        "tiles": [
+          "ப்",
+          "இ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_37",
+    "order": 37,
+    "tamil": "நகம்",
+    "english": "fingernail",
+    "image": "assets/images/words/word_37.png",
+    "slots": [
+      {
+        "char": "ந",
+        "tiles": [
+          "ந்",
+          "அ"
+        ]
+      },
+      {
+        "char": "க",
+        "tiles": [
+          "க்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ம்",
+        "tiles": [
+          "ம்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_38",
+    "order": 38,
+    "tamil": "நீலம்",
+    "english": "blue crayon",
+    "image": "assets/images/words/word_38.png",
+    "slots": [
+      {
+        "char": "நீ",
+        "tiles": [
+          "ந்",
+          "ஈ"
+        ]
+      },
+      {
+        "char": "ல",
+        "tiles": [
+          "ல்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ம்",
+        "tiles": [
+          "ம்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_39",
+    "order": 39,
+    "tamil": "பச்சை",
+    "english": "green crayon",
+    "image": "assets/images/words/word_39.png",
+    "slots": [
+      {
+        "char": "ப",
+        "tiles": [
+          "ப்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ச்",
+        "tiles": [
+          "ச்"
+        ]
+      },
+      {
+        "char": "சை",
+        "tiles": [
+          "ச்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_40",
+    "order": 40,
+    "tamil": "பழம்",
+    "english": "fruit",
+    "image": "assets/images/words/word_40.png",
+    "slots": [
+      {
+        "char": "ப",
+        "tiles": [
+          "ப்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ழ",
+        "tiles": [
+          "ழ்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ம்",
+        "tiles": [
+          "ம்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_41",
+    "order": 41,
+    "tamil": "பாம்பு",
+    "english": "snake",
+    "image": "assets/images/words/word_41.png",
+    "slots": [
+      {
+        "char": "பா",
+        "tiles": [
+          "ப்",
+          "ஆ"
+        ]
+      },
+      {
+        "char": "ம்",
+        "tiles": [
+          "ம்"
+        ]
+      },
+      {
+        "char": "பு",
+        "tiles": [
+          "ப்",
+          "உ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_42",
+    "order": 42,
+    "tamil": "மயில்",
+    "english": "peacock",
+    "image": "assets/images/words/word_42.png",
+    "slots": [
+      {
+        "char": "ம",
+        "tiles": [
+          "ம்",
+          "அ"
+        ]
+      },
+      {
+        "char": "யி",
+        "tiles": [
+          "ய்",
+          "இ"
+        ]
+      },
+      {
+        "char": "ல்",
+        "tiles": [
+          "ல்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_43",
+    "order": 43,
+    "tamil": "முட்டை",
+    "english": "egg",
+    "image": "assets/images/words/word_43.png",
+    "slots": [
+      {
+        "char": "மு",
+        "tiles": [
+          "ம்",
+          "உ"
+        ]
+      },
+      {
+        "char": "ட்",
+        "tiles": [
+          "ட்"
+        ]
+      },
+      {
+        "char": "டை",
+        "tiles": [
+          "ட்",
+          "ஐ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_44",
+    "order": 44,
+    "tamil": "முயல்",
+    "english": "rabbit",
+    "image": "assets/images/words/word_44.png",
+    "slots": [
+      {
+        "char": "மு",
+        "tiles": [
+          "ம்",
+          "உ"
+        ]
+      },
+      {
+        "char": "ய",
+        "tiles": [
+          "ய்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ல்",
+        "tiles": [
+          "ல்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_45",
+    "order": 45,
+    "tamil": "ரயில்",
+    "english": "train",
+    "image": "assets/images/words/word_45.png",
+    "slots": [
+      {
+        "char": "ர",
+        "tiles": [
+          "ர்",
+          "அ"
+        ]
+      },
+      {
+        "char": "யி",
+        "tiles": [
+          "ய்",
+          "இ"
+        ]
+      },
+      {
+        "char": "ல்",
+        "tiles": [
+          "ல்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_46",
+    "order": 46,
+    "tamil": "லட்டு",
+    "english": "laddu",
+    "image": "assets/images/words/word_46.png",
+    "slots": [
+      {
+        "char": "ல",
+        "tiles": [
+          "ல்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ட்",
+        "tiles": [
+          "ட்"
+        ]
+      },
+      {
+        "char": "டு",
+        "tiles": [
+          "ட்",
+          "உ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_47",
+    "order": 47,
+    "tamil": "ஊஞ்சல்",
+    "english": "swing",
+    "image": "assets/images/words/word_47.png",
+    "slots": [
+      {
+        "char": "ஊ",
+        "tiles": [
+          "ஊ"
+        ]
+      },
+      {
+        "char": "ஞ்",
+        "tiles": [
+          "ஞ்"
+        ]
+      },
+      {
+        "char": "ச",
+        "tiles": [
+          "ச்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ல்",
+        "tiles": [
+          "ல்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_48",
+    "order": 48,
+    "tamil": "ஆரஞ்சு",
+    "english": "orange fruit",
+    "image": "assets/images/words/word_48.png",
+    "slots": [
+      {
+        "char": "ஆ",
+        "tiles": [
+          "ஆ"
+        ]
+      },
+      {
+        "char": "ர",
+        "tiles": [
+          "ர்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ஞ்",
+        "tiles": [
+          "ஞ்"
+        ]
+      },
+      {
+        "char": "சு",
+        "tiles": [
+          "ச்",
+          "உ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_49",
+    "order": 49,
+    "tamil": "சிங்கம்",
+    "english": "lion",
+    "image": "assets/images/words/word_49.png",
+    "slots": [
+      {
+        "char": "சி",
+        "tiles": [
+          "ச்",
+          "இ"
+        ]
+      },
+      {
+        "char": "ங்",
+        "tiles": [
+          "ங்"
+        ]
+      },
+      {
+        "char": "க",
+        "tiles": [
+          "க்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ம்",
+        "tiles": [
+          "ம்"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "word_50",
+    "order": 50,
+    "tamil": "மஞ்சள்",
+    "english": "yellow crayon",
+    "image": "assets/images/words/word_50.png",
+    "slots": [
+      {
+        "char": "ம",
+        "tiles": [
+          "ம்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ஞ்",
+        "tiles": [
+          "ஞ்"
+        ]
+      },
+      {
+        "char": "ச",
+        "tiles": [
+          "ச்",
+          "அ"
+        ]
+      },
+      {
+        "char": "ள்",
+        "tiles": [
+          "ள்"
+        ]
+      }
+    ]
+  }
+]

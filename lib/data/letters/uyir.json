@@ -1,0 +1,132 @@
+[
+  {
+    "id": "uyir_01",
+    "category": "uyir",
+    "order": 1,
+    "tamil": "அ",
+    "transliteration": "a",
+    "exampleWordTamil": "அம்மா",
+    "exampleWordTransliteration": "amma",
+    "strokeDataId": "uyir_01"
+  },
+  {
+    "id": "uyir_02",
+    "category": "uyir",
+    "order": 2,
+    "tamil": "ஆ",
+    "transliteration": "aa",
+    "exampleWordTamil": "ஆடு",
+    "exampleWordTransliteration": "aadu",
+    "strokeDataId": "uyir_02"
+  },
+  {
+    "id": "uyir_03",
+    "category": "uyir",
+    "order": 3,
+    "tamil": "இ",
+    "transliteration": "i",
+    "exampleWordTamil": "இலை",
+    "exampleWordTransliteration": "ilai",
+    "strokeDataId": "uyir_03"
+  },
+  {
+    "id": "uyir_04",
+    "category": "uyir",
+    "order": 4,
+    "tamil": "ஈ",
+    "transliteration": "ii",
+    "exampleWordTamil": "ஈ",
+    "exampleWordTransliteration": "ee",
+    "strokeDataId": "uyir_04"
+  },
+  {
+    "id": "uyir_05",
+    "category": "uyir",
+    "order": 5,
+    "tamil": "உ",
+    "transliteration": "u",
+    "exampleWordTamil": "உரல்",
+    "exampleWordTransliteration": "ural",
+    "strokeDataId": "uyir_05"
+  },
+  {
+    "id": "uyir_06",
+    "category": "uyir",
+    "order": 6,
+    "tamil": "ஊ",
+    "transliteration": "uu",
+    "exampleWordTamil": "ஊஞ்சல்",
+    "exampleWordTransliteration": "oonjal",
+    "strokeDataId": "uyir_06"
+  },
+  {
+    "id": "uyir_07",
+    "category": "uyir",
+    "order": 7,
+    "tamil": "எ",
+    "transliteration": "e",
+    "exampleWordTamil": "எலி",
+    "exampleWordTransliteration": "eli",
+    "strokeDataId": "uyir_07"
+  },
+  {
+    "id": "uyir_08",
+    "category": "uyir",
+    "order": 8,
+    "tamil": "ஏ",
+    "transliteration": "ee",
+    "exampleWordTamil": "ஏணி",
+    "exampleWordTransliteration": "eeni",
+    "strokeDataId": "uyir_08"
+  },
+  {
+    "id": "uyir_09",
+    "category": "uyir",
+    "order": 9,
+    "tamil": "ஐ",
+    "transliteration": "ai",
+    "exampleWordTamil": "ஐந்து",
+    "exampleWordTransliteration": "aindhu",
+    "strokeDataId": "uyir_09"
+  },
+  {
+    "id": "uyir_10",
+    "category": "uyir",
+    "order": 10,
+    "tamil": "ஒ",
+    "transliteration": "o",
+    "exampleWordTamil": "ஒட்டகம்",
+    "exampleWordTransliteration": "ottagam",
+    "strokeDataId": "uyir_10"
+  },
+  {
+    "id": "uyir_11",
+    "category": "uyir",
+    "order": 11,
+    "tamil": "ஓ",
+    "transliteration": "oo",
+    "exampleWordTamil": "ஓடம்",
+    "exampleWordTransliteration": "oodam",
+    "strokeDataId": "uyir_11"
+  },
+  {
+    "id": "uyir_12",
+    "category": "uyir",
+    "order": 12,
+    "tamil": "ஔ",
+    "transliteration": "au",
+    "exampleWordTamil": "ஔவையார்",
+    "exampleWordTransliteration": "auvaiyaar",
+    "strokeDataId": "uyir_12"
+  },
+  {
+    "id": "aaytham_01",
+    "category": "aaytham",
+    "order": 13,
+    "tamil": "ஃ",
+    "transliteration": "akh",
+    "exampleWordTamil": "எஃகு",
+    "exampleWordTransliteration": "ekku",
+    "strokeDataId": "aaytham_01"
+  }
+]

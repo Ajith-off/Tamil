@@ -1,0 +1,45 @@
+{
+  "canvas": {
+    "tubeWidthFactor": 0.0869,
+    "tubeEdgeWidthFactor": 0.006,
+    "dotSpacingFactor": 0.042,
+    "dotRadiusFactor": 0.009,
+    "waypointSpacingFactor": 0.12,
+    "waypointMinLeadFactor": 0.075,
+    "waypointRadiusFactor": 0.026,
+    "waypointHaloFactor": 0.052,
+    "frameInsetFactor": 0.02,
+    "frameWidthFactor": 0.005,
+    "frameCornerFactor": 0.04,
+    "dotStrokeLengthFactor": 0.06,
+    "traceToleranceFactor": 0.1,
+    "traceLookaheadFactor": 0.14,
+    "traceSampleStepFactor": 0.006,
+    "minPointDistance": 0.004
+  },
+  "featureFlags": {
+    "audioEnabled": true,
+    "authoringEnabled": false
+  },
+  "progression": {
+    "starsToUnlockNext": 0
+  },
+  "coins": {
+    "startingBalance": 13,
+    "perThreeStarLetter": 1
+  },
+  "parentZone": {
+    "adCoinsPerWatch": 1,
+    "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
+    "projectDetailsUrl": "https://s-rajkumar.github.io/kids_tamil_ezhuthu_school/",
+    "privacyPolicyUrl": "https://s-rajkumar.github.io/kids_tamil_ezhuthu_school/privacy-policy.html",
+    "appShareUrl": "https://play.google.com/store/apps/details?id=com.udmnxpdu.kids_tamil_ezhuthu_school"
+  },
+  "certificate": {
+    "allLettersStarredMarks": 50,
+    "uyirCategoryMarks": 10,
+    "meiCategoryMarks": 10,
+    "uyirmeiCategoryMarks": 20,
+    "gameCategoryMarks": 10
+  }
+}

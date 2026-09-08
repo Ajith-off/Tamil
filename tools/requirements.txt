@@ -1,0 +1,28 @@
+# Stroke-data authoring pipeline (dev only — the app ships none of this).
+#
+#     pip install -r tools/requirements.txt
+#
+# Versions are the ones the current stroke data was generated with. The
+# skeleton is sensitive to sub-pixel rendering differences: a ~1% change in
+# antialiased edge pixels was enough to move three letters' arc counts, and
+# an arc count change renumbers the indices every order in tools/orders.json
+# names. Pin these, and re-run tools/trace_batch.py after any upgrade to see
+# what moved before trusting it.
+
+numpy==2.4.6
+scipy==1.17.1
+scikit-image==0.26.0
+networkx==3.6.1
+Pillow==12.3.0
+
+# Text shaping. Tamil letters are more than one code point (க் is க + U+0BCD)
+# and the font answers with a single precomposed glyph, so the string has to
+# be shaped rather than laid out by advance width. Pillow cannot do it here —
+# PIL.features.check("raqm") is False — which silently put every mei letter's
+# puḷḷi up to a third of the letter's width off centre. HarfBuzz picks the
+# glyphs and their positions; FreeType draws them by glyph id.
+#
+# Not optional, and far more load-bearing for uyirmei: கு is one fused glyph,
+# and கெ reorders the vowel sign ahead of the consonant.
+uharfbuzz==0.56.0
+freetype-py==2.5.1

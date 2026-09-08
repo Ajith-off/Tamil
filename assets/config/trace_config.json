@@ -1,0 +1,53 @@
+{
+  "modes": [
+    {
+      "id": "easy",
+      "showTube": true,
+      "showDots": false,
+      "showWaypoints": true,
+      "showTutorial": true,
+      "freeDraw": false
+    },
+    {
+      "id": "medium",
+      "showTube": true,
+      "showDots": false,
+      "showWaypoints": false,
+      "showTutorial": true,
+      "freeDraw": false
+    },
+    {
+      "id": "hard",
+      "showTube": false,
+      "showDots": false,
+      "showWaypoints": false,
+      "showTutorial": true,
+      "freeDraw": false
+    },
+    {
+      "id": "special",
+      "showTube": false,
+      "showDots": false,
+      "showWaypoints": false,
+      "showTutorial": false,
+      "showFrame": true,
+      "showStartPoint": true,
+      "previewDurationMs": 1000,
+      "freeDraw": true
+    }
+  ],
+  "tutorial": {
+    "strokeDurationMs": 1700,
+    "pauseBetweenStrokesMs": 450,
+    "holdAtEndMs": 700
+  },
+  "celebration": {
+    "durationMs": 1900,
+    "particleCount": 110,
+    "minParticleRadiusFactor": 0.006,
+    "maxParticleRadiusFactor": 0.02,
+    "spreadFactor": 0.8,
+    "starRadiusFactor": 0.16
+  },
+  "advanceAfterSuccesses": 2
+}

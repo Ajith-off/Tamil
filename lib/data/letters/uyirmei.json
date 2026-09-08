@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "uyirmei_01_01",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 1,
+    "tamil": "க",
+    "transliteration": "ka",
+    "strokeDataId": "uyirmei_01_01"
+  },
+  {
+    "id": "uyirmei_01_02",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 2,
+    "tamil": "கா",
+    "transliteration": "kaa",
+    "strokeDataId": "uyirmei_01_02"
+  },
+  {
+    "id": "uyirmei_01_03",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 3,
+    "tamil": "கி",
+    "transliteration": "ki",
+    "strokeDataId": "uyirmei_01_03"
+  },
+  {
+    "id": "uyirmei_01_04",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 4,
+    "tamil": "கீ",
+    "transliteration": "kii",
+    "strokeDataId": "uyirmei_01_04"
+  },
+  {
+    "id": "uyirmei_01_05",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 5,
+    "tamil": "கு",
+    "transliteration": "ku",
+    "strokeDataId": "uyirmei_01_05"
+  },
+  {
+    "id": "uyirmei_01_06",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 6,
+    "tamil": "கூ",
+    "transliteration": "kuu",
+    "strokeDataId": "uyirmei_01_06"
+  },
+  {
+    "id": "uyirmei_01_07",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 7,
+    "tamil": "கெ",
+    "transliteration": "ke",
+    "strokeDataId": "uyirmei_01_07"
+  },
+  {
+    "id": "uyirmei_01_08",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 8,
+    "tamil": "கே",
+    "transliteration": "kee",
+    "strokeDataId": "uyirmei_01_08"
+  },
+  {
+    "id": "uyirmei_01_09",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 9,
+    "tamil": "கை",
+    "transliteration": "kai",
+    "strokeDataId": "uyirmei_01_09"
+  },
+  {
+    "id": "uyirmei_01_10",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 10,
+    "tamil": "கொ",
+    "transliteration": "ko",
+    "strokeDataId": "uyirmei_01_10"
+  },
+  {
+    "id": "uyirmei_01_11",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 11,
+    "tamil": "கோ",
+    "transliteration": "koo",
+    "strokeDataId": "uyirmei_01_11"
+  },
+  {
+    "id": "uyirmei_01_12",
+    "category": "uyirmei",
+    "group": "uyirmei_01",
+    "groupTamil": "க",
+    "order": 12,
+    "tamil": "கௌ",
+    "transliteration": "kau",
+    "strokeDataId": "uyirmei_01_12"
+  },
+  {
+    "id": "uyirmei_02_01",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 13,
+    "tamil": "ங",
+    "transliteration": "nga",
+    "strokeDataId": "uyirmei_02_01"
+  },
+  {
+    "id": "uyirmei_02_02",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 14,
+    "tamil": "ஙா",
+    "transliteration": "ngaa",
+    "strokeDataId": "uyirmei_02_02"
+  },
+  {
+    "id": "uyirmei_02_03",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 15,
+    "tamil": "ஙி",
+    "transliteration": "ngi",
+    "strokeDataId": "uyirmei_02_03"
+  },
+  {
+    "id": "uyirmei_02_04",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 16,
+    "tamil": "ஙீ",
+    "transliteration": "ngii",
+    "strokeDataId": "uyirmei_02_04"
+  },
+  {
+    "id": "uyirmei_02_05",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 17,
+    "tamil": "ஙு",
+    "transliteration": "ngu",
+    "strokeDataId": "uyirmei_02_05"
+  },
+  {
+    "id": "uyirmei_02_06",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 18,
+    "tamil": "ஙூ",
+    "transliteration": "nguu",
+    "strokeDataId": "uyirmei_02_06"
+  },
+  {
+    "id": "uyirmei_02_07",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 19,
+    "tamil": "ஙெ",
+    "transliteration": "nge",
+    "strokeDataId": "uyirmei_02_07"
+  },
+  {
+    "id": "uyirmei_02_08",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 20,
+    "tamil": "ஙே",
+    "transliteration": "ngee",
+    "strokeDataId": "uyirmei_02_08"
+  },
+  {
+    "id": "uyirmei_02_09",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 21,
+    "tamil": "ஙை",
+    "transliteration": "ngai",
+    "strokeDataId": "uyirmei_02_09"
+  },
+  {
+    "id": "uyirmei_02_10",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 22,
+    "tamil": "ஙொ",
+    "transliteration": "ngo",
+    "strokeDataId": "uyirmei_02_10"
+  },
+  {
+    "id": "uyirmei_02_11",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 23,
+    "tamil": "ஙோ",
+    "transliteration": "ngoo",
+    "strokeDataId": "uyirmei_02_11"
+  },
+  {
+    "id": "uyirmei_02_12",
+    "category": "uyirmei",
+    "group": "uyirmei_02",
+    "groupTamil": "ங",
+    "order": 24,
+    "tamil": "ஙௌ",
+    "transliteration": "ngau",
+    "strokeDataId": "uyirmei_02_12"
+  },
+  {
+    "id": "uyirmei_03_01",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 25,
+    "tamil": "ச",
+    "transliteration": "cha",
+    "strokeDataId": "uyirmei_03_01"
+  },
+  {
+    "id": "uyirmei_03_02",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 26,
+    "tamil": "சா",
+    "transliteration": "chaa",
+    "strokeDataId": "uyirmei_03_02"
+  },
+  {
+    "id": "uyirmei_03_03",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 27,
+    "tamil": "சி",
+    "transliteration": "chi",
+    "strokeDataId": "uyirmei_03_03"
+  },
+  {
+    "id": "uyirmei_03_04",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 28,
+    "tamil": "சீ",
+    "transliteration": "chii",
+    "strokeDataId": "uyirmei_03_04"
+  },
+  {
+    "id": "uyirmei_03_05",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 29,
+    "tamil": "சு",
+    "transliteration": "chu",
+    "strokeDataId": "uyirmei_03_05"
+  },
+  {
+    "id": "uyirmei_03_06",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 30,
+    "tamil": "சூ",
+    "transliteration": "chuu",
+    "strokeDataId": "uyirmei_03_06"
+  },
+  {
+    "id": "uyirmei_03_07",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 31,
+    "tamil": "செ",
+    "transliteration": "che",
+    "strokeDataId": "uyirmei_03_07"
+  },
+  {
+    "id": "uyirmei_03_08",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 32,
+    "tamil": "சே",
+    "transliteration": "chee",
+    "strokeDataId": "uyirmei_03_08"
+  },
+  {
+    "id": "uyirmei_03_09",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 33,
+    "tamil": "சை",
+    "transliteration": "chai",
+    "strokeDataId": "uyirmei_03_09"
+  },
+  {
+    "id": "uyirmei_03_10",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 34,
+    "tamil": "சொ",
+    "transliteration": "cho",
+    "strokeDataId": "uyirmei_03_10"
+  },
+  {
+    "id": "uyirmei_03_11",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 35,
+    "tamil": "சோ",
+    "transliteration": "choo",
+    "strokeDataId": "uyirmei_03_11"
+  },
+  {
+    "id": "uyirmei_03_12",
+    "category": "uyirmei",
+    "group": "uyirmei_03",
+    "groupTamil": "ச",
+    "order": 36,
+    "tamil": "சௌ",
+    "transliteration": "chau",
+    "strokeDataId": "uyirmei_03_12"
+  },
+  {
+    "id": "uyirmei_04_01",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 37,
+    "tamil": "ஞ",
+    "transliteration": "nja",
+    "strokeDataId": "uyirmei_04_01"
+  },
+  {
+    "id": "uyirmei_04_02",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 38,
+    "tamil": "ஞா",
+    "transliteration": "njaa",
+    "strokeDataId": "uyirmei_04_02"
+  },
+  {
+    "id": "uyirmei_04_03",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 39,
+    "tamil": "ஞி",
+    "transliteration": "nji",
+    "strokeDataId": "uyirmei_04_03"
+  },
+  {
+    "id": "uyirmei_04_04",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 40,
+    "tamil": "ஞீ",
+    "transliteration": "njii",
+    "strokeDataId": "uyirmei_04_04"
+  },
+  {
+    "id": "uyirmei_04_05",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 41,
+    "tamil": "ஞு",
+    "transliteration": "nju",
+    "strokeDataId": "uyirmei_04_05"
+  },
+  {
+    "id": "uyirmei_04_06",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 42,
+    "tamil": "ஞூ",
+    "transliteration": "njuu",
+    "strokeDataId": "uyirmei_04_06"
+  },
+  {
+    "id": "uyirmei_04_07",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 43,
+    "tamil": "ஞெ",
+    "transliteration": "nje",
+    "strokeDataId": "uyirmei_04_07"
+  },
+  {
+    "id": "uyirmei_04_08",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 44,
+    "tamil": "ஞே",
+    "transliteration": "njee",
+    "strokeDataId": "uyirmei_04_08"
+  },
+  {
+    "id": "uyirmei_04_09",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 45,
+    "tamil": "ஞை",
+    "transliteration": "njai",
+    "strokeDataId": "uyirmei_04_09"
+  },
+  {
+    "id": "uyirmei_04_10",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 46,
+    "tamil": "ஞொ",
+    "transliteration": "njo",
+    "strokeDataId": "uyirmei_04_10"
+  },
+  {
+    "id": "uyirmei_04_11",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 47,
+    "tamil": "ஞோ",
+    "transliteration": "njoo",
+    "strokeDataId": "uyirmei_04_11"
+  },
+  {
+    "id": "uyirmei_04_12",
+    "category": "uyirmei",
+    "group": "uyirmei_04",
+    "groupTamil": "ஞ",
+    "order": 48,
+    "tamil": "ஞௌ",
+    "transliteration": "njau",
+    "strokeDataId": "uyirmei_04_12"
+  },
+  {
+    "id": "uyirmei_05_01",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 49,
+    "tamil": "ட",
+    "transliteration": "ta",
+    "strokeDataId": "uyirmei_05_01"
+  },
+  {
+    "id": "uyirmei_05_02",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 50,
+    "tamil": "டா",
+    "transliteration": "taa",
+    "strokeDataId": "uyirmei_05_02"
+  },
+  {
+    "id": "uyirmei_05_03",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 51,
+    "tamil": "டி",
+    "transliteration": "ti",
+    "strokeDataId": "uyirmei_05_03"
+  },
+  {
+    "id": "uyirmei_05_04",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 52,
+    "tamil": "டீ",
+    "transliteration": "tii",
+    "strokeDataId": "uyirmei_05_04"
+  },
+  {
+    "id": "uyirmei_05_05",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 53,
+    "tamil": "டு",
+    "transliteration": "tu",
+    "strokeDataId": "uyirmei_05_05"
+  },
+  {
+    "id": "uyirmei_05_06",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 54,
+    "tamil": "டூ",
+    "transliteration": "tuu",
+    "strokeDataId": "uyirmei_05_06"
+  },
+  {
+    "id": "uyirmei_05_07",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 55,
+    "tamil": "டெ",
+    "transliteration": "te",
+    "strokeDataId": "uyirmei_05_07"
+  },
+  {
+    "id": "uyirmei_05_08",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 56,
+    "tamil": "டே",
+    "transliteration": "tee",
+    "strokeDataId": "uyirmei_05_08"
+  },
+  {
+    "id": "uyirmei_05_09",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 57,
+    "tamil": "டை",
+    "transliteration": "tai",
+    "strokeDataId": "uyirmei_05_09"
+  },
+  {
+    "id": "uyirmei_05_10",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 58,
+    "tamil": "டொ",
+    "transliteration": "to",
+    "strokeDataId": "uyirmei_05_10"
+  },
+  {
+    "id": "uyirmei_05_11",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 59,
+    "tamil": "டோ",
+    "transliteration": "too",
+    "strokeDataId": "uyirmei_05_11"
+  },
+  {
+    "id": "uyirmei_05_12",
+    "category": "uyirmei",
+    "group": "uyirmei_05",
+    "groupTamil": "ட",
+    "order": 60,
+    "tamil": "டௌ",
+    "transliteration": "tau",
+    "strokeDataId": "uyirmei_05_12"
+  },
+  {
+    "id": "uyirmei_06_01",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 61,
+    "tamil": "ண",
+    "transliteration": "nna",
+    "strokeDataId": "uyirmei_06_01"
+  },
+  {
+    "id": "uyirmei_06_02",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 62,
+    "tamil": "ணா",
+    "transliteration": "nnaa",
+    "strokeDataId": "uyirmei_06_02"
+  },
+  {
+    "id": "uyirmei_06_03",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 63,
+    "tamil": "ணி",
+    "transliteration": "nni",
+    "strokeDataId": "uyirmei_06_03"
+  },
+  {
+    "id": "uyirmei_06_04",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 64,
+    "tamil": "ணீ",
+    "transliteration": "nnii",
+    "strokeDataId": "uyirmei_06_04"
+  },
+  {
+    "id": "uyirmei_06_05",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 65,
+    "tamil": "ணு",
+    "transliteration": "nnu",
+    "strokeDataId": "uyirmei_06_05"
+  },
+  {
+    "id": "uyirmei_06_06",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 66,
+    "tamil": "ணூ",
+    "transliteration": "nnuu",
+    "strokeDataId": "uyirmei_06_06"
+  },
+  {
+    "id": "uyirmei_06_07",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 67,
+    "tamil": "ணெ",
+    "transliteration": "nne",
+    "strokeDataId": "uyirmei_06_07"
+  },
+  {
+    "id": "uyirmei_06_08",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 68,
+    "tamil": "ணே",
+    "transliteration": "nnee",
+    "strokeDataId": "uyirmei_06_08"
+  },
+  {
+    "id": "uyirmei_06_09",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 69,
+    "tamil": "ணை",
+    "transliteration": "nnai",
+    "strokeDataId": "uyirmei_06_09"
+  },
+  {
+    "id": "uyirmei_06_10",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 70,
+    "tamil": "ணொ",
+    "transliteration": "nno",
+    "strokeDataId": "uyirmei_06_10"
+  },
+  {
+    "id": "uyirmei_06_11",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 71,
+    "tamil": "ணோ",
+    "transliteration": "nnoo",
+    "strokeDataId": "uyirmei_06_11"
+  },
+  {
+    "id": "uyirmei_06_12",
+    "category": "uyirmei",
+    "group": "uyirmei_06",
+    "groupTamil": "ண",
+    "order": 72,
+    "tamil": "ணௌ",
+    "transliteration": "nnau",
+    "strokeDataId": "uyirmei_06_12"
+  },
+  {
+    "id": "uyirmei_07_01",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 73,
+    "tamil": "த",
+    "transliteration": "tha",
+    "strokeDataId": "uyirmei_07_01"
+  },
+  {
+    "id": "uyirmei_07_02",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 74,
+    "tamil": "தா",
+    "transliteration": "thaa",
+    "strokeDataId": "uyirmei_07_02"
+  },
+  {
+    "id": "uyirmei_07_03",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 75,
+    "tamil": "தி",
+    "transliteration": "thi",
+    "strokeDataId": "uyirmei_07_03"
+  },
+  {
+    "id": "uyirmei_07_04",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 76,
+    "tamil": "தீ",
+    "transliteration": "thii",
+    "strokeDataId": "uyirmei_07_04"
+  },
+  {
+    "id": "uyirmei_07_05",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 77,
+    "tamil": "து",
+    "transliteration": "thu",
+    "strokeDataId": "uyirmei_07_05"
+  },
+  {
+    "id": "uyirmei_07_06",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 78,
+    "tamil": "தூ",
+    "transliteration": "thuu",
+    "strokeDataId": "uyirmei_07_06"
+  },
+  {
+    "id": "uyirmei_07_07",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 79,
+    "tamil": "தெ",
+    "transliteration": "the",
+    "strokeDataId": "uyirmei_07_07"
+  },
+  {
+    "id": "uyirmei_07_08",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 80,
+    "tamil": "தே",
+    "transliteration": "thee",
+    "strokeDataId": "uyirmei_07_08"
+  },
+  {
+    "id": "uyirmei_07_09",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 81,
+    "tamil": "தை",
+    "transliteration": "thai",
+    "strokeDataId": "uyirmei_07_09"
+  },
+  {
+    "id": "uyirmei_07_10",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 82,
+    "tamil": "தொ",
+    "transliteration": "tho",
+    "strokeDataId": "uyirmei_07_10"
+  },
+  {
+    "id": "uyirmei_07_11",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 83,
+    "tamil": "தோ",
+    "transliteration": "thoo",
+    "strokeDataId": "uyirmei_07_11"
+  },
+  {
+    "id": "uyirmei_07_12",
+    "category": "uyirmei",
+    "group": "uyirmei_07",
+    "groupTamil": "த",
+    "order": 84,
+    "tamil": "தௌ",
+    "transliteration": "thau",
+    "strokeDataId": "uyirmei_07_12"
+  },
+  {
+    "id": "uyirmei_08_01",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 85,
+    "tamil": "ந",
+    "transliteration": "na",
+    "strokeDataId": "uyirmei_08_01"
+  },
+  {
+    "id": "uyirmei_08_02",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 86,
+    "tamil": "நா",
+    "transliteration": "naa",
+    "strokeDataId": "uyirmei_08_02"
+  },
+  {
+    "id": "uyirmei_08_03",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 87,
+    "tamil": "நி",
+    "transliteration": "ni",
+    "strokeDataId": "uyirmei_08_03"
+  },
+  {
+    "id": "uyirmei_08_04",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 88,
+    "tamil": "நீ",
+    "transliteration": "nii",
+    "strokeDataId": "uyirmei_08_04"
+  },
+  {
+    "id": "uyirmei_08_05",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 89,
+    "tamil": "நு",
+    "transliteration": "nu",
+    "strokeDataId": "uyirmei_08_05"
+  },
+  {
+    "id": "uyirmei_08_06",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 90,
+    "tamil": "நூ",
+    "transliteration": "nuu",
+    "strokeDataId": "uyirmei_08_06"
+  },
+  {
+    "id": "uyirmei_08_07",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 91,
+    "tamil": "நெ",
+    "transliteration": "ne",
+    "strokeDataId": "uyirmei_08_07"
+  },
+  {
+    "id": "uyirmei_08_08",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 92,
+    "tamil": "நே",
+    "transliteration": "nee",
+    "strokeDataId": "uyirmei_08_08"
+  },
+  {
+    "id": "uyirmei_08_09",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 93,
+    "tamil": "நை",
+    "transliteration": "nai",
+    "strokeDataId": "uyirmei_08_09"
+  },
+  {
+    "id": "uyirmei_08_10",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 94,
+    "tamil": "நொ",
+    "transliteration": "no",
+    "strokeDataId": "uyirmei_08_10"
+  },
+  {
+    "id": "uyirmei_08_11",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 95,
+    "tamil": "நோ",
+    "transliteration": "noo",
+    "strokeDataId": "uyirmei_08_11"
+  },
+  {
+    "id": "uyirmei_08_12",
+    "category": "uyirmei",
+    "group": "uyirmei_08",
+    "groupTamil": "ந",
+    "order": 96,
+    "tamil": "நௌ",
+    "transliteration": "nau",
+    "strokeDataId": "uyirmei_08_12"
+  },
+  {
+    "id": "uyirmei_09_01",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 97,
+    "tamil": "ப",
+    "transliteration": "pa",
+    "strokeDataId": "uyirmei_09_01"
+  },
+  {
+    "id": "uyirmei_09_02",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 98,
+    "tamil": "பா",
+    "transliteration": "paa",
+    "strokeDataId": "uyirmei_09_02"
+  },
+  {
+    "id": "uyirmei_09_03",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 99,
+    "tamil": "பி",
+    "transliteration": "pi",
+    "strokeDataId": "uyirmei_09_03"
+  },
+  {
+    "id": "uyirmei_09_04",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 100,
+    "tamil": "பீ",
+    "transliteration": "pii",
+    "strokeDataId": "uyirmei_09_04"
+  },
+  {
+    "id": "uyirmei_09_05",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 101,
+    "tamil": "பு",
+    "transliteration": "pu",
+    "strokeDataId": "uyirmei_09_05"
+  },
+  {
+    "id": "uyirmei_09_06",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 102,
+    "tamil": "பூ",
+    "transliteration": "puu",
+    "strokeDataId": "uyirmei_09_06"
+  },
+  {
+    "id": "uyirmei_09_07",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 103,
+    "tamil": "பெ",
+    "transliteration": "pe",
+    "strokeDataId": "uyirmei_09_07"
+  },
+  {
+    "id": "uyirmei_09_08",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 104,
+    "tamil": "பே",
+    "transliteration": "pee",
+    "strokeDataId": "uyirmei_09_08"
+  },
+  {
+    "id": "uyirmei_09_09",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 105,
+    "tamil": "பை",
+    "transliteration": "pai",
+    "strokeDataId": "uyirmei_09_09"
+  },
+  {
+    "id": "uyirmei_09_10",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 106,
+    "tamil": "பொ",
+    "transliteration": "po",
+    "strokeDataId": "uyirmei_09_10"
+  },
+  {
+    "id": "uyirmei_09_11",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 107,
+    "tamil": "போ",
+    "transliteration": "poo",
+    "strokeDataId": "uyirmei_09_11"
+  },
+  {
+    "id": "uyirmei_09_12",
+    "category": "uyirmei",
+    "group": "uyirmei_09",
+    "groupTamil": "ப",
+    "order": 108,
+    "tamil": "பௌ",
+    "transliteration": "pau",
+    "strokeDataId": "uyirmei_09_12"
+  },
+  {
+    "id": "uyirmei_10_01",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 109,
+    "tamil": "ம",
+    "transliteration": "ma",
+    "strokeDataId": "uyirmei_10_01"
+  },
+  {
+    "id": "uyirmei_10_02",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 110,
+    "tamil": "மா",
+    "transliteration": "maa",
+    "strokeDataId": "uyirmei_10_02"
+  },
+  {
+    "id": "uyirmei_10_03",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 111,
+    "tamil": "மி",
+    "transliteration": "mi",
+    "strokeDataId": "uyirmei_10_03"
+  },
+  {
+    "id": "uyirmei_10_04",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 112,
+    "tamil": "மீ",
+    "transliteration": "mii",
+    "strokeDataId": "uyirmei_10_04"
+  },
+  {
+    "id": "uyirmei_10_05",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 113,
+    "tamil": "மு",
+    "transliteration": "mu",
+    "strokeDataId": "uyirmei_10_05"
+  },
+  {
+    "id": "uyirmei_10_06",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 114,
+    "tamil": "மூ",
+    "transliteration": "muu",
+    "strokeDataId": "uyirmei_10_06"
+  },
+  {
+    "id": "uyirmei_10_07",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 115,
+    "tamil": "மெ",
+    "transliteration": "me",
+    "strokeDataId": "uyirmei_10_07"
+  },
+  {
+    "id": "uyirmei_10_08",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 116,
+    "tamil": "மே",
+    "transliteration": "mee",
+    "strokeDataId": "uyirmei_10_08"
+  },
+  {
+    "id": "uyirmei_10_09",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 117,
+    "tamil": "மை",
+    "transliteration": "mai",
+    "strokeDataId": "uyirmei_10_09"
+  },
+  {
+    "id": "uyirmei_10_10",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 118,
+    "tamil": "மொ",
+    "transliteration": "mo",
+    "strokeDataId": "uyirmei_10_10"
+  },
+  {
+    "id": "uyirmei_10_11",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 119,
+    "tamil": "மோ",
+    "transliteration": "moo",
+    "strokeDataId": "uyirmei_10_11"
+  },
+  {
+    "id": "uyirmei_10_12",
+    "category": "uyirmei",
+    "group": "uyirmei_10",
+    "groupTamil": "ம",
+    "order": 120,
+    "tamil": "மௌ",
+    "transliteration": "mau",
+    "strokeDataId": "uyirmei_10_12"
+  },
+  {
+    "id": "uyirmei_11_01",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 121,
+    "tamil": "ய",
+    "transliteration": "ya",
+    "strokeDataId": "uyirmei_11_01"
+  },
+  {
+    "id": "uyirmei_11_02",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 122,
+    "tamil": "யா",
+    "transliteration": "yaa",
+    "strokeDataId": "uyirmei_11_02"
+  },
+  {
+    "id": "uyirmei_11_03",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 123,
+    "tamil": "யி",
+    "transliteration": "yi",
+    "strokeDataId": "uyirmei_11_03"
+  },
+  {
+    "id": "uyirmei_11_04",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 124,
+    "tamil": "யீ",
+    "transliteration": "yii",
+    "strokeDataId": "uyirmei_11_04"
+  },
+  {
+    "id": "uyirmei_11_05",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 125,
+    "tamil": "யு",
+    "transliteration": "yu",
+    "strokeDataId": "uyirmei_11_05"
+  },
+  {
+    "id": "uyirmei_11_06",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 126,
+    "tamil": "யூ",
+    "transliteration": "yuu",
+    "strokeDataId": "uyirmei_11_06"
+  },
+  {
+    "id": "uyirmei_11_07",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 127,
+    "tamil": "யெ",
+    "transliteration": "ye",
+    "strokeDataId": "uyirmei_11_07"
+  },
+  {
+    "id": "uyirmei_11_08",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 128,
+    "tamil": "யே",
+    "transliteration": "yee",
+    "strokeDataId": "uyirmei_11_08"
+  },
+  {
+    "id": "uyirmei_11_09",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 129,
+    "tamil": "யை",
+    "transliteration": "yai",
+    "strokeDataId": "uyirmei_11_09"
+  },
+  {
+    "id": "uyirmei_11_10",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 130,
+    "tamil": "யொ",
+    "transliteration": "yo",
+    "strokeDataId": "uyirmei_11_10"
+  },
+  {
+    "id": "uyirmei_11_11",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 131,
+    "tamil": "யோ",
+    "transliteration": "yoo",
+    "strokeDataId": "uyirmei_11_11"
+  },
+  {
+    "id": "uyirmei_11_12",
+    "category": "uyirmei",
+    "group": "uyirmei_11",
+    "groupTamil": "ய",
+    "order": 132,
+    "tamil": "யௌ",
+    "transliteration": "yau",
+    "strokeDataId": "uyirmei_11_12"
+  },
+  {
+    "id": "uyirmei_12_01",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 133,
+    "tamil": "ர",
+    "transliteration": "ra",
+    "strokeDataId": "uyirmei_12_01"
+  },
+  {
+    "id": "uyirmei_12_02",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 134,
+    "tamil": "ரா",
+    "transliteration": "raa",
+    "strokeDataId": "uyirmei_12_02"
+  },
+  {
+    "id": "uyirmei_12_03",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 135,
+    "tamil": "ரி",
+    "transliteration": "ri",
+    "strokeDataId": "uyirmei_12_03"
+  },
+  {
+    "id": "uyirmei_12_04",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 136,
+    "tamil": "ரீ",
+    "transliteration": "rii",
+    "strokeDataId": "uyirmei_12_04"
+  },
+  {
+    "id": "uyirmei_12_05",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 137,
+    "tamil": "ரு",
+    "transliteration": "ru",
+    "strokeDataId": "uyirmei_12_05"
+  },
+  {
+    "id": "uyirmei_12_06",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 138,
+    "tamil": "ரூ",
+    "transliteration": "ruu",
+    "strokeDataId": "uyirmei_12_06"
+  },
+  {
+    "id": "uyirmei_12_07",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 139,
+    "tamil": "ரெ",
+    "transliteration": "re",
+    "strokeDataId": "uyirmei_12_07"
+  },
+  {
+    "id": "uyirmei_12_08",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 140,
+    "tamil": "ரே",
+    "transliteration": "ree",
+    "strokeDataId": "uyirmei_12_08"
+  },
+  {
+    "id": "uyirmei_12_09",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 141,
+    "tamil": "ரை",
+    "transliteration": "rai",
+    "strokeDataId": "uyirmei_12_09"
+  },
+  {
+    "id": "uyirmei_12_10",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 142,
+    "tamil": "ரொ",
+    "transliteration": "ro",
+    "strokeDataId": "uyirmei_12_10"
+  },
+  {
+    "id": "uyirmei_12_11",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 143,
+    "tamil": "ரோ",
+    "transliteration": "roo",
+    "strokeDataId": "uyirmei_12_11"
+  },
+  {
+    "id": "uyirmei_12_12",
+    "category": "uyirmei",
+    "group": "uyirmei_12",
+    "groupTamil": "ர",
+    "order": 144,
+    "tamil": "ரௌ",
+    "transliteration": "rau",
+    "strokeDataId": "uyirmei_12_12"
+  },
+  {
+    "id": "uyirmei_13_01",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 145,
+    "tamil": "ல",
+    "transliteration": "la",
+    "strokeDataId": "uyirmei_13_01"
+  },
+  {
+    "id": "uyirmei_13_02",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 146,
+    "tamil": "லா",
+    "transliteration": "laa",
+    "strokeDataId": "uyirmei_13_02"
+  },
+  {
+    "id": "uyirmei_13_03",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 147,
+    "tamil": "லி",
+    "transliteration": "li",
+    "strokeDataId": "uyirmei_13_03"
+  },
+  {
+    "id": "uyirmei_13_04",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 148,
+    "tamil": "லீ",
+    "transliteration": "lii",
+    "strokeDataId": "uyirmei_13_04"
+  },
+  {
+    "id": "uyirmei_13_05",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 149,
+    "tamil": "லு",
+    "transliteration": "lu",
+    "strokeDataId": "uyirmei_13_05"
+  },
+  {
+    "id": "uyirmei_13_06",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 150,
+    "tamil": "லூ",
+    "transliteration": "luu",
+    "strokeDataId": "uyirmei_13_06"
+  },
+  {
+    "id": "uyirmei_13_07",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 151,
+    "tamil": "லெ",
+    "transliteration": "le",
+    "strokeDataId": "uyirmei_13_07"
+  },
+  {
+    "id": "uyirmei_13_08",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 152,
+    "tamil": "லே",
+    "transliteration": "lee",
+    "strokeDataId": "uyirmei_13_08"
+  },
+  {
+    "id": "uyirmei_13_09",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 153,
+    "tamil": "லை",
+    "transliteration": "lai",
+    "strokeDataId": "uyirmei_13_09"
+  },
+  {
+    "id": "uyirmei_13_10",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 154,
+    "tamil": "லொ",
+    "transliteration": "lo",
+    "strokeDataId": "uyirmei_13_10"
+  },
+  {
+    "id": "uyirmei_13_11",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 155,
+    "tamil": "லோ",
+    "transliteration": "loo",
+    "strokeDataId": "uyirmei_13_11"
+  },
+  {
+    "id": "uyirmei_13_12",
+    "category": "uyirmei",
+    "group": "uyirmei_13",
+    "groupTamil": "ல",
+    "order": 156,
+    "tamil": "லௌ",
+    "transliteration": "lau",
+    "strokeDataId": "uyirmei_13_12"
+  },
+  {
+    "id": "uyirmei_14_01",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 157,
+    "tamil": "வ",
+    "transliteration": "va",
+    "strokeDataId": "uyirmei_14_01"
+  },
+  {
+    "id": "uyirmei_14_02",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 158,
+    "tamil": "வா",
+    "transliteration": "vaa",
+    "strokeDataId": "uyirmei_14_02"
+  },
+  {
+    "id": "uyirmei_14_03",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 159,
+    "tamil": "வி",
+    "transliteration": "vi",
+    "strokeDataId": "uyirmei_14_03"
+  },
+  {
+    "id": "uyirmei_14_04",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 160,
+    "tamil": "வீ",
+    "transliteration": "vii",
+    "strokeDataId": "uyirmei_14_04"
+  },
+  {
+    "id": "uyirmei_14_05",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 161,
+    "tamil": "வு",
+    "transliteration": "vu",
+    "strokeDataId": "uyirmei_14_05"
+  },
+  {
+    "id": "uyirmei_14_06",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 162,
+    "tamil": "வூ",
+    "transliteration": "vuu",
+    "strokeDataId": "uyirmei_14_06"
+  },
+  {
+    "id": "uyirmei_14_07",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 163,
+    "tamil": "வெ",
+    "transliteration": "ve",
+    "strokeDataId": "uyirmei_14_07"
+  },
+  {
+    "id": "uyirmei_14_08",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 164,
+    "tamil": "வே",
+    "transliteration": "vee",
+    "strokeDataId": "uyirmei_14_08"
+  },
+  {
+    "id": "uyirmei_14_09",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 165,
+    "tamil": "வை",
+    "transliteration": "vai",
+    "strokeDataId": "uyirmei_14_09"
+  },
+  {
+    "id": "uyirmei_14_10",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 166,
+    "tamil": "வொ",
+    "transliteration": "vo",
+    "strokeDataId": "uyirmei_14_10"
+  },
+  {
+    "id": "uyirmei_14_11",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 167,
+    "tamil": "வோ",
+    "transliteration": "voo",
+    "strokeDataId": "uyirmei_14_11"
+  },
+  {
+    "id": "uyirmei_14_12",
+    "category": "uyirmei",
+    "group": "uyirmei_14",
+    "groupTamil": "வ",
+    "order": 168,
+    "tamil": "வௌ",
+    "transliteration": "vau",
+    "strokeDataId": "uyirmei_14_12"
+  },
+  {
+    "id": "uyirmei_15_01",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 169,
+    "tamil": "ழ",
+    "transliteration": "zha",
+    "strokeDataId": "uyirmei_15_01"
+  },
+  {
+    "id": "uyirmei_15_02",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 170,
+    "tamil": "ழா",
+    "transliteration": "zhaa",
+    "strokeDataId": "uyirmei_15_02"
+  },
+  {
+    "id": "uyirmei_15_03",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 171,
+    "tamil": "ழி",
+    "transliteration": "zhi",
+    "strokeDataId": "uyirmei_15_03"
+  },
+  {
+    "id": "uyirmei_15_04",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 172,
+    "tamil": "ழீ",
+    "transliteration": "zhii",
+    "strokeDataId": "uyirmei_15_04"
+  },
+  {
+    "id": "uyirmei_15_05",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 173,
+    "tamil": "ழு",
+    "transliteration": "zhu",
+    "strokeDataId": "uyirmei_15_05"
+  },
+  {
+    "id": "uyirmei_15_06",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 174,
+    "tamil": "ழூ",
+    "transliteration": "zhuu",
+    "strokeDataId": "uyirmei_15_06"
+  },
+  {
+    "id": "uyirmei_15_07",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 175,
+    "tamil": "ழெ",
+    "transliteration": "zhe",
+    "strokeDataId": "uyirmei_15_07"
+  },
+  {
+    "id": "uyirmei_15_08",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 176,
+    "tamil": "ழே",
+    "transliteration": "zhee",
+    "strokeDataId": "uyirmei_15_08"
+  },
+  {
+    "id": "uyirmei_15_09",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 177,
+    "tamil": "ழை",
+    "transliteration": "zhai",
+    "strokeDataId": "uyirmei_15_09"
+  },
+  {
+    "id": "uyirmei_15_10",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 178,
+    "tamil": "ழொ",
+    "transliteration": "zho",
+    "strokeDataId": "uyirmei_15_10"
+  },
+  {
+    "id": "uyirmei_15_11",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 179,
+    "tamil": "ழோ",
+    "transliteration": "zhoo",
+    "strokeDataId": "uyirmei_15_11"
+  },
+  {
+    "id": "uyirmei_15_12",
+    "category": "uyirmei",
+    "group": "uyirmei_15",
+    "groupTamil": "ழ",
+    "order": 180,
+    "tamil": "ழௌ",
+    "transliteration": "zhau",
+    "strokeDataId": "uyirmei_15_12"
+  },
+  {
+    "id": "uyirmei_16_01",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 181,
+    "tamil": "ள",
+    "transliteration": "lla",
+    "strokeDataId": "uyirmei_16_01"
+  },
+  {
+    "id": "uyirmei_16_02",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 182,
+    "tamil": "ளா",
+    "transliteration": "llaa",
+    "strokeDataId": "uyirmei_16_02"
+  },
+  {
+    "id": "uyirmei_16_03",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 183,
+    "tamil": "ளி",
+    "transliteration": "lli",
+    "strokeDataId": "uyirmei_16_03"
+  },
+  {
+    "id": "uyirmei_16_04",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 184,
+    "tamil": "ளீ",
+    "transliteration": "llii",
+    "strokeDataId": "uyirmei_16_04"
+  },
+  {
+    "id": "uyirmei_16_05",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 185,
+    "tamil": "ளு",
+    "transliteration": "llu",
+    "strokeDataId": "uyirmei_16_05"
+  },
+  {
+    "id": "uyirmei_16_06",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 186,
+    "tamil": "ளூ",
+    "transliteration": "lluu",
+    "strokeDataId": "uyirmei_16_06"
+  },
+  {
+    "id": "uyirmei_16_07",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 187,
+    "tamil": "ளெ",
+    "transliteration": "lle",
+    "strokeDataId": "uyirmei_16_07"
+  },
+  {
+    "id": "uyirmei_16_08",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 188,
+    "tamil": "ளே",
+    "transliteration": "llee",
+    "strokeDataId": "uyirmei_16_08"
+  },
+  {
+    "id": "uyirmei_16_09",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 189,
+    "tamil": "ளை",
+    "transliteration": "llai",
+    "strokeDataId": "uyirmei_16_09"
+  },
+  {
+    "id": "uyirmei_16_10",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 190,
+    "tamil": "ளொ",
+    "transliteration": "llo",
+    "strokeDataId": "uyirmei_16_10"
+  },
+  {
+    "id": "uyirmei_16_11",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 191,
+    "tamil": "ளோ",
+    "transliteration": "lloo",
+    "strokeDataId": "uyirmei_16_11"
+  },
+  {
+    "id": "uyirmei_16_12",
+    "category": "uyirmei",
+    "group": "uyirmei_16",
+    "groupTamil": "ள",
+    "order": 192,
+    "tamil": "ளௌ",
+    "transliteration": "llau",
+    "strokeDataId": "uyirmei_16_12"
+  },
+  {
+    "id": "uyirmei_17_01",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 193,
+    "tamil": "ற",
+    "transliteration": "rra",
+    "strokeDataId": "uyirmei_17_01"
+  },
+  {
+    "id": "uyirmei_17_02",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 194,
+    "tamil": "றா",
+    "transliteration": "rraa",
+    "strokeDataId": "uyirmei_17_02"
+  },
+  {
+    "id": "uyirmei_17_03",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 195,
+    "tamil": "றி",
+    "transliteration": "rri",
+    "strokeDataId": "uyirmei_17_03"
+  },
+  {
+    "id": "uyirmei_17_04",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 196,
+    "tamil": "றீ",
+    "transliteration": "rrii",
+    "strokeDataId": "uyirmei_17_04"
+  },
+  {
+    "id": "uyirmei_17_05",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 197,
+    "tamil": "று",
+    "transliteration": "rru",
+    "strokeDataId": "uyirmei_17_05"
+  },
+  {
+    "id": "uyirmei_17_06",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 198,
+    "tamil": "றூ",
+    "transliteration": "rruu",
+    "strokeDataId": "uyirmei_17_06"
+  },
+  {
+    "id": "uyirmei_17_07",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 199,
+    "tamil": "றெ",
+    "transliteration": "rre",
+    "strokeDataId": "uyirmei_17_07"
+  },
+  {
+    "id": "uyirmei_17_08",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 200,
+    "tamil": "றே",
+    "transliteration": "rree",
+    "strokeDataId": "uyirmei_17_08"
+  },
+  {
+    "id": "uyirmei_17_09",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 201,
+    "tamil": "றை",
+    "transliteration": "rrai",
+    "strokeDataId": "uyirmei_17_09"
+  },
+  {
+    "id": "uyirmei_17_10",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 202,
+    "tamil": "றொ",
+    "transliteration": "rro",
+    "strokeDataId": "uyirmei_17_10"
+  },
+  {
+    "id": "uyirmei_17_11",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 203,
+    "tamil": "றோ",
+    "transliteration": "rroo",
+    "strokeDataId": "uyirmei_17_11"
+  },
+  {
+    "id": "uyirmei_17_12",
+    "category": "uyirmei",
+    "group": "uyirmei_17",
+    "groupTamil": "ற",
+    "order": 204,
+    "tamil": "றௌ",
+    "transliteration": "rrau",
+    "strokeDataId": "uyirmei_17_12"
+  },
+  {
+    "id": "uyirmei_18_01",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 205,
+    "tamil": "ன",
+    "transliteration": "na",
+    "strokeDataId": "uyirmei_18_01"
+  },
+  {
+    "id": "uyirmei_18_02",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 206,
+    "tamil": "னா",
+    "transliteration": "naa",
+    "strokeDataId": "uyirmei_18_02"
+  },
+  {
+    "id": "uyirmei_18_03",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 207,
+    "tamil": "னி",
+    "transliteration": "ni",
+    "strokeDataId": "uyirmei_18_03"
+  },
+  {
+    "id": "uyirmei_18_04",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 208,
+    "tamil": "னீ",
+    "transliteration": "nii",
+    "strokeDataId": "uyirmei_18_04"
+  },
+  {
+    "id": "uyirmei_18_05",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 209,
+    "tamil": "னு",
+    "transliteration": "nu",
+    "strokeDataId": "uyirmei_18_05"
+  },
+  {
+    "id": "uyirmei_18_06",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 210,
+    "tamil": "னூ",
+    "transliteration": "nuu",
+    "strokeDataId": "uyirmei_18_06"
+  },
+  {
+    "id": "uyirmei_18_07",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 211,
+    "tamil": "னெ",
+    "transliteration": "ne",
+    "strokeDataId": "uyirmei_18_07"
+  },
+  {
+    "id": "uyirmei_18_08",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 212,
+    "tamil": "னே",
+    "transliteration": "nee",
+    "strokeDataId": "uyirmei_18_08"
+  },
+  {
+    "id": "uyirmei_18_09",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 213,
+    "tamil": "னை",
+    "transliteration": "nai",
+    "strokeDataId": "uyirmei_18_09"
+  },
+  {
+    "id": "uyirmei_18_10",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 214,
+    "tamil": "னொ",
+    "transliteration": "no",
+    "strokeDataId": "uyirmei_18_10"
+  },
+  {
+    "id": "uyirmei_18_11",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 215,
+    "tamil": "னோ",
+    "transliteration": "noo",
+    "strokeDataId": "uyirmei_18_11"
+  },
+  {
+    "id": "uyirmei_18_12",
+    "category": "uyirmei",
+    "group": "uyirmei_18",
+    "groupTamil": "ன",
+    "order": 216,
+    "tamil": "னௌ",
+    "transliteration": "nau",
+    "strokeDataId": "uyirmei_18_12"
+  }
+]

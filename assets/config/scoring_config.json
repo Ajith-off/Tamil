@@ -1,0 +1,23 @@
+{
+  "marks": {
+    "easyCompletion": 25,
+    "mediumCompletion": 25,
+    "hardCompletion": 20,
+    "hardSpeed": 10,
+    "challengeShape": 20
+  },
+  "starThresholds": {
+    "one": 15,
+    "two": 75,
+    "three": 90
+  },
+  "speed": {
+    "fastSecondsPerUnitLength": 3.0,
+    "slowSecondsPerUnitLength": 10.0
+  },
+  "engine": {
+    "resamplePointCount": 64,
+    "shapeToleranceRadius": 0.24,
+    "countPenaltyPerExtraStroke": 0.5
+  }
+}

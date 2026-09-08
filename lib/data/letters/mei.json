@@ -1,0 +1,182 @@
+[
+  {
+    "id": "mei_01",
+    "category": "mei",
+    "order": 1,
+    "tamil": "க்",
+    "transliteration": "k",
+    "exampleWordTamil": "சக்கரம்",
+    "exampleWordTransliteration": "chakkaram",
+    "strokeDataId": "mei_01"
+  },
+  {
+    "id": "mei_02",
+    "category": "mei",
+    "order": 2,
+    "tamil": "ங்",
+    "transliteration": "ng",
+    "exampleWordTamil": "சங்கு",
+    "exampleWordTransliteration": "sangu",
+    "strokeDataId": "mei_02"
+  },
+  {
+    "id": "mei_03",
+    "category": "mei",
+    "order": 3,
+    "tamil": "ச்",
+    "transliteration": "ch",
+    "exampleWordTamil": "பச்சை",
+    "exampleWordTransliteration": "pachchai",
+    "strokeDataId": "mei_03"
+  },
+  {
+    "id": "mei_04",
+    "category": "mei",
+    "order": 4,
+    "tamil": "ஞ்",
+    "transliteration": "nj",
+    "exampleWordTamil": "மஞ்சள்",
+    "exampleWordTransliteration": "manjal",
+    "strokeDataId": "mei_04"
+  },
+  {
+    "id": "mei_05",
+    "category": "mei",
+    "order": 5,
+    "tamil": "ட்",
+    "transliteration": "t",
+    "exampleWordTamil": "கட்டில்",
+    "exampleWordTransliteration": "kattil",
+    "strokeDataId": "mei_05"
+  },
+  {
+    "id": "mei_06",
+    "category": "mei",
+    "order": 6,
+    "tamil": "ண்",
+    "transliteration": "nn",
+    "exampleWordTamil": "கண்",
+    "exampleWordTransliteration": "kan",
+    "strokeDataId": "mei_06"
+  },
+  {
+    "id": "mei_07",
+    "category": "mei",
+    "order": 7,
+    "tamil": "த்",
+    "transliteration": "th",
+    "exampleWordTamil": "பத்து",
+    "exampleWordTransliteration": "paththu",
+    "strokeDataId": "mei_07"
+  },
+  {
+    "id": "mei_08",
+    "category": "mei",
+    "order": 8,
+    "tamil": "ந்",
+    "transliteration": "n",
+    "exampleWordTamil": "பந்து",
+    "exampleWordTransliteration": "panthu",
+    "strokeDataId": "mei_08"
+  },
+  {
+    "id": "mei_09",
+    "category": "mei",
+    "order": 9,
+    "tamil": "ப்",
+    "transliteration": "p",
+    "exampleWordTamil": "கப்பல்",
+    "exampleWordTransliteration": "kappal",
+    "strokeDataId": "mei_09"
+  },
+  {
+    "id": "mei_10",
+    "category": "mei",
+    "order": 10,
+    "tamil": "ம்",
+    "transliteration": "m",
+    "exampleWordTamil": "பம்பரம்",
+    "exampleWordTransliteration": "pambaram",
+    "strokeDataId": "mei_10"
+  },
+  {
+    "id": "mei_11",
+    "category": "mei",
+    "order": 11,
+    "tamil": "ய்",
+    "transliteration": "y",
+    "exampleWordTamil": "வாய்",
+    "exampleWordTransliteration": "vaai",
+    "strokeDataId": "mei_11"
+  },
+  {
+    "id": "mei_12",
+    "category": "mei",
+    "order": 12,
+    "tamil": "ர்",
+    "transliteration": "r",
+    "exampleWordTamil": "கார்",
+    "exampleWordTransliteration": "kaar",
+    "strokeDataId": "mei_12"
+  },
+  {
+    "id": "mei_13",
+    "category": "mei",
+    "order": 13,
+    "tamil": "ல்",
+    "transliteration": "l",
+    "exampleWordTamil": "பல்",
+    "exampleWordTransliteration": "pal",
+    "strokeDataId": "mei_13"
+  },
+  {
+    "id": "mei_14",
+    "category": "mei",
+    "order": 14,
+    "tamil": "வ்",
+    "transliteration": "v",
+    "exampleWordTamil": "செவ்வாய்",
+    "exampleWordTransliteration": "sevvaai",
+    "strokeDataId": "mei_14"
+  },
+  {
+    "id": "mei_15",
+    "category": "mei",
+    "order": 15,
+    "tamil": "ழ்",
+    "transliteration": "zh",
+    "exampleWordTamil": "தமிழ்",
+    "exampleWordTransliteration": "thamizh",
+    "strokeDataId": "mei_15"
+  },
+  {
+    "id": "mei_16",
+    "category": "mei",
+    "order": 16,
+    "tamil": "ள்",
+    "transliteration": "ll",
+    "exampleWordTamil": "பள்ளி",
+    "exampleWordTransliteration": "palli",
+    "strokeDataId": "mei_16"
+  },
+  {
+    "id": "mei_17",
+    "category": "mei",
+    "order": 17,
+    "tamil": "ற்",
+    "transliteration": "rr",
+    "exampleWordTamil": "நெற்றி",
+    "exampleWordTransliteration": "netri",
+    "strokeDataId": "mei_17"
+  },
+  {
+    "id": "mei_18",
+    "category": "mei",
+    "order": 18,
+    "tamil": "ன்",
+    "transliteration": "n",
+    "exampleWordTamil": "மீன்",
+    "exampleWordTransliteration": "meen",
+    "strokeDataId": "mei_18"
+  }
+]

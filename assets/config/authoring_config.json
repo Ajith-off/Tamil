@@ -1,0 +1,23 @@
+{
+  "snap": {
+    "resampleSpacing": 0.004,
+    "snapDistanceFactor": 1.5,
+    "minSnapDistance": 0.05,
+    "minSamplesPerArc": 3,
+    "minArcCoverage": 0.35,
+    "closedArcRatio": 0.15,
+    "maxJoinGap": 0.01
+  },
+  "canvas": {
+    "inkWidthFactor": 0.012,
+    "arcLabelRadiusFactor": 0.028,
+    "arcLabelFontFactor": 0.032,
+    "endpointRadiusFactor": 0.014,
+    "fitPaddingTubes": 1.2
+  },
+  "preview": {
+    "strokeDurationMs": 1600,
+    "pauseBetweenStrokesMs": 500,
+    "holdAtEndMs": 900
+  }
+}

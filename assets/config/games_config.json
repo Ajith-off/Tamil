@@ -1,0 +1,140 @@
+{
+  "wordBuilder": {
+    "distractorCount": 3,
+    "coinsPerCleanWord": 1,
+    "heartsPerCoin": 3,
+    "startingHearts": 3,
+    "snakeDurationMs": 650,
+    "snakeWrongDurationMs": 950,
+    "verdictHoldMs": 800,
+    "verdictWrongHoldMs": 1200,
+    "completionPauseMs": 450,
+    "tutorialTravelMs": 1200,
+    "tutorialHoldMs": 520,
+    "tutorialOpacity": 0.45,
+    "slotWidth": 90,
+    "slotHeight": 90,
+    "slotBorderWidth": 4,
+    "slotCornerRadius": 16,
+    "slotGap": 12,
+    "shadowOpacity": 0.2,
+    "crossWidthFactor": 0.9,
+    "crossOpacity": 0.62,
+    "tileSize": 72,
+    "tileGap": 10,
+    "tilesPerRow": 4,
+    "tileCornerRadius": 14,
+    "tileDragScale": 1.25,
+    "vowelSigns": {
+      "அ": "",
+      "ஆ": "ா",
+      "இ": "ி",
+      "ஈ": "ீ",
+      "உ": "ு",
+      "ஊ": "ூ",
+      "எ": "ெ",
+      "ஏ": "ே",
+      "ஐ": "ை",
+      "ஒ": "ொ",
+      "ஓ": "ோ",
+      "ஔ": "ௌ"
+    },
+    "tilePool": [
+      "அ",
+      "ஆ",
+      "இ",
+      "ஈ",
+      "உ",
+      "ஊ",
+      "எ",
+      "ஏ",
+      "ஐ",
+      "ஒ",
+      "ஓ",
+      "ஔ",
+      "க்",
+      "ங்",
+      "ச்",
+      "ஞ்",
+      "ட்",
+      "ண்",
+      "த்",
+      "ந்",
+      "ப்",
+      "ம்",
+      "ய்",
+      "ர்",
+      "ல்",
+      "வ்",
+      "ழ்",
+      "ள்",
+      "ற்",
+      "ன்",
+      "ஃ"
+    ],
+    "confusable": [
+      [
+        "அ",
+        "ஆ"
+      ],
+      [
+        "இ",
+        "ஈ"
+      ],
+      [
+        "உ",
+        "ஊ"
+      ],
+      [
+        "எ",
+        "ஏ"
+      ],
+      [
+        "ஒ",
+        "ஓ"
+      ],
+      [
+        "ஐ",
+        "ஔ"
+      ],
+      [
+        "ண்",
+        "ன்",
+        "ல்",
+        "ள்"
+      ],
+      [
+        "ழ்",
+        "ள்"
+      ],
+      [
+        "ர்",
+        "ற்"
+      ],
+      [
+        "ங்",
+        "ஞ்"
+      ],
+      [
+        "த்",
+        "ந்"
+      ],
+      [
+        "ப்",
+        "ய்"
+      ],
+      [
+        "க்",
+        "ச்"
+      ],
+      [
+        "ம்",
+        "ல்"
+      ],
+      [
+        "வ்",
+        "ய்"
+      ]
+    ]
+  }
+}

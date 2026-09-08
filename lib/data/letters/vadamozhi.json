@@ -1,0 +1,52 @@
+[
+  {
+    "id": "vadamozhi_01",
+    "category": "vadamozhi",
+    "order": 1,
+    "tamil": "ஜ",
+    "transliteration": "ja",
+    "exampleWordTamil": "ஜாடி",
+    "exampleWordTransliteration": "jaadi",
+    "strokeDataId": "vadamozhi_01"
+  },
+  {
+    "id": "vadamozhi_02",
+    "category": "vadamozhi",
+    "order": 2,
+    "tamil": "ஷ",
+    "transliteration": "sha",
+    "strokeDataId": "vadamozhi_02"
+  },
+  {
+    "id": "vadamozhi_03",
+    "category": "vadamozhi",
+    "order": 3,
+    "tamil": "ஸ",
+    "transliteration": "sa",
+    "strokeDataId": "vadamozhi_03"
+  },
+  {
+    "id": "vadamozhi_04",
+    "category": "vadamozhi",
+    "order": 4,
+    "tamil": "ஹ",
+    "transliteration": "ha",
+    "strokeDataId": "vadamozhi_04"
+  },
+  {
+    "id": "vadamozhi_05",
+    "category": "vadamozhi",
+    "order": 5,
+    "tamil": "க்ஷ",
+    "transliteration": "ksha",
+    "strokeDataId": "vadamozhi_05"
+  },
+  {
+    "id": "vadamozhi_06",
+    "category": "vadamozhi",
+    "order": 6,
+    "tamil": "ஸ்ரீ",
+    "transliteration": "shri",
+    "strokeDataId": "vadamozhi_06"
+  }
+]

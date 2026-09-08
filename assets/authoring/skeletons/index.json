@@ -1,0 +1,458 @@
+[
+  {
+    "letterId": "uyir_01",
+    "char": "அ"
+  },
+  {
+    "letterId": "uyir_02",
+    "char": "ஆ"
+  },
+  {
+    "letterId": "uyir_03",
+    "char": "இ"
+  },
+  {
+    "letterId": "uyir_04",
+    "char": "ஈ"
+  },
+  {
+    "letterId": "uyir_05",
+    "char": "உ"
+  },
+  {
+    "letterId": "uyir_06",
+    "char": "ஊ"
+  },
+  {
+    "letterId": "uyir_07",
+    "char": "எ"
+  },
+  {
+    "letterId": "uyir_08",
+    "char": "ஏ"
+  },
+  {
+    "letterId": "uyir_09",
+    "char": "ஐ"
+  },
+  {
+    "letterId": "uyir_10",
+    "char": "ஒ"
+  },
+  {
+    "letterId": "uyir_11",
+    "char": "ஓ"
+  },
+  {
+    "letterId": "uyir_12",
+    "char": "ஔ"
+  },
+  {
+    "letterId": "aaytham_01",
+    "char": "ஃ"
+  },
+  {
+    "letterId": "mei_01",
+    "char": "க்"
+  },
+  {
+    "letterId": "mei_02",
+    "char": "ங்"
+  },
+  {
+    "letterId": "mei_03",
+    "char": "ச்"
+  },
+  {
+    "letterId": "mei_04",
+    "char": "ஞ்"
+  },
+  {
+    "letterId": "mei_05",
+    "char": "ட்"
+  },
+  {
+    "letterId": "mei_06",
+    "char": "ண்"
+  },
+  {
+    "letterId": "mei_07",
+    "char": "த்"
+  },
+  {
+    "letterId": "mei_08",
+    "char": "ந்"
+  },
+  {
+    "letterId": "mei_09",
+    "char": "ப்"
+  },
+  {
+    "letterId": "mei_10",
+    "char": "ம்"
+  },
+  {
+    "letterId": "mei_11",
+    "char": "ய்"
+  },
+  {
+    "letterId": "mei_12",
+    "char": "ர்"
+  },
+  {
+    "letterId": "mei_13",
+    "char": "ல்"
+  },
+  {
+    "letterId": "mei_14",
+    "char": "வ்"
+  },
+  {
+    "letterId": "mei_15",
+    "char": "ழ்"
+  },
+  {
+    "letterId": "mei_16",
+    "char": "ள்"
+  },
+  {
+    "letterId": "mei_17",
+    "char": "ற்"
+  },
+  {
+    "letterId": "mei_18",
+    "char": "ன்"
+  },
+  {
+    "letterId": "vadamozhi_01",
+    "char": "ஜ"
+  },
+  {
+    "letterId": "vadamozhi_02",
+    "char": "ஷ"
+  },
+  {
+    "letterId": "vadamozhi_03",
+    "char": "ஸ"
+  },
+  {
+    "letterId": "vadamozhi_04",
+    "char": "ஹ"
+  },
+  {
+    "letterId": "vadamozhi_05",
+    "char": "க்ஷ"
+  },
+  {
+    "letterId": "vadamozhi_06",
+    "char": "ஸ்ரீ"
+  },
+  {
+    "letterId": "uyirmei_01_02",
+    "char": "கா"
+  },
+  {
+    "letterId": "uyirmei_01_03",
+    "char": "கி"
+  },
+  {
+    "letterId": "uyirmei_01_04",
+    "char": "கீ"
+  },
+  {
+    "letterId": "uyirmei_01_05",
+    "char": "கு"
+  },
+  {
+    "letterId": "uyirmei_01_06",
+    "char": "கூ"
+  },
+  {
+    "letterId": "uyirmei_01_07",
+    "char": "கெ"
+  },
+  {
+    "letterId": "uyirmei_01_08",
+    "char": "கே"
+  },
+  {
+    "letterId": "uyirmei_01_09",
+    "char": "கை"
+  },
+  {
+    "letterId": "uyirmei_01_12",
+    "char": "கௌ"
+  },
+  {
+    "letterId": "uyirmei_02_03",
+    "char": "ஙி"
+  },
+  {
+    "letterId": "uyirmei_02_04",
+    "char": "ஙீ"
+  },
+  {
+    "letterId": "uyirmei_02_05",
+    "char": "ஙு"
+  },
+  {
+    "letterId": "uyirmei_02_06",
+    "char": "ஙூ"
+  },
+  {
+    "letterId": "uyirmei_03_03",
+    "char": "சி"
+  },
+  {
+    "letterId": "uyirmei_03_04",
+    "char": "சீ"
+  },
+  {
+    "letterId": "uyirmei_03_05",
+    "char": "சு"
+  },
+  {
+    "letterId": "uyirmei_03_06",
+    "char": "சூ"
+  },
+  {
+    "letterId": "uyirmei_04_03",
+    "char": "ஞி"
+  },
+  {
+    "letterId": "uyirmei_04_04",
+    "char": "ஞீ"
+  },
+  {
+    "letterId": "uyirmei_04_05",
+    "char": "ஞு"
+  },
+  {
+    "letterId": "uyirmei_04_06",
+    "char": "ஞூ"
+  },
+  {
+    "letterId": "uyirmei_05_03",
+    "char": "டி"
+  },
+  {
+    "letterId": "uyirmei_05_04",
+    "char": "டீ"
+  },
+  {
+    "letterId": "uyirmei_05_05",
+    "char": "டு"
+  },
+  {
+    "letterId": "uyirmei_05_06",
+    "char": "டூ"
+  },
+  {
+    "letterId": "uyirmei_06_03",
+    "char": "ணி"
+  },
+  {
+    "letterId": "uyirmei_06_04",
+    "char": "ணீ"
+  },
+  {
+    "letterId": "uyirmei_06_05",
+    "char": "ணு"
+  },
+  {
+    "letterId": "uyirmei_06_06",
+    "char": "ணூ"
+  },
+  {
+    "letterId": "uyirmei_07_03",
+    "char": "தி"
+  },
+  {
+    "letterId": "uyirmei_07_04",
+    "char": "தீ"
+  },
+  {
+    "letterId": "uyirmei_07_05",
+    "char": "து"
+  },
+  {
+    "letterId": "uyirmei_07_06",
+    "char": "தூ"
+  },
+  {
+    "letterId": "uyirmei_08_03",
+    "char": "நி"
+  },
+  {
+    "letterId": "uyirmei_08_04",
+    "char": "நீ"
+  },
+  {
+    "letterId": "uyirmei_08_05",
+    "char": "நு"
+  },
+  {
+    "letterId": "uyirmei_08_06",
+    "char": "நூ"
+  },
+  {
+    "letterId": "uyirmei_09_03",
+    "char": "பி"
+  },
+  {
+    "letterId": "uyirmei_09_04",
+    "char": "பீ"
+  },
+  {
+    "letterId": "uyirmei_09_05",
+    "char": "பு"
+  },
+  {
+    "letterId": "uyirmei_09_06",
+    "char": "பூ"
+  },
+  {
+    "letterId": "uyirmei_10_03",
+    "char": "மி"
+  },
+  {
+    "letterId": "uyirmei_10_04",
+    "char": "மீ"
+  },
+  {
+    "letterId": "uyirmei_10_05",
+    "char": "மு"
+  },
+  {
+    "letterId": "uyirmei_10_06",
+    "char": "மூ"
+  },
+  {
+    "letterId": "uyirmei_11_03",
+    "char": "யி"
+  },
+  {
+    "letterId": "uyirmei_11_04",
+    "char": "யீ"
+  },
+  {
+    "letterId": "uyirmei_11_05",
+    "char": "யு"
+  },
+  {
+    "letterId": "uyirmei_11_06",
+    "char": "யூ"
+  },
+  {
+    "letterId": "uyirmei_12_03",
+    "char": "ரி"
+  },
+  {
+    "letterId": "uyirmei_12_04",
+    "char": "ரீ"
+  },
+  {
+    "letterId": "uyirmei_12_05",
+    "char": "ரு"
+  },
+  {
+    "letterId": "uyirmei_12_06",
+    "char": "ரூ"
+  },
+  {
+    "letterId": "uyirmei_13_03",
+    "char": "லி"
+  },
+  {
+    "letterId": "uyirmei_13_04",
+    "char": "லீ"
+  },
+  {
+    "letterId": "uyirmei_13_05",
+    "char": "லு"
+  },
+  {
+    "letterId": "uyirmei_13_06",
+    "char": "லூ"
+  },
+  {
+    "letterId": "uyirmei_14_03",
+    "char": "வி"
+  },
+  {
+    "letterId": "uyirmei_14_04",
+    "char": "வீ"
+  },
+  {
+    "letterId": "uyirmei_14_05",
+    "char": "வு"
+  },
+  {
+    "letterId": "uyirmei_14_06",
+    "char": "வூ"
+  },
+  {
+    "letterId": "uyirmei_15_03",
+    "char": "ழி"
+  },
+  {
+    "letterId": "uyirmei_15_04",
+    "char": "ழீ"
+  },
+  {
+    "letterId": "uyirmei_15_05",
+    "char": "ழு"
+  },
+  {
+    "letterId": "uyirmei_15_06",
+    "char": "ழூ"
+  },
+  {
+    "letterId": "uyirmei_16_03",
+    "char": "ளி"
+  },
+  {
+    "letterId": "uyirmei_16_04",
+    "char": "ளீ"
+  },
+  {
+    "letterId": "uyirmei_16_05",
+    "char": "ளு"
+  },
+  {
+    "letterId": "uyirmei_16_06",
+    "char": "ளூ"
+  },
+  {
+    "letterId": "uyirmei_17_03",
+    "char": "றி"
+  },
+  {
+    "letterId": "uyirmei_17_04",
+    "char": "றீ"
+  },
+  {
+    "letterId": "uyirmei_17_05",
+    "char": "று"
+  },
+  {
+    "letterId": "uyirmei_17_06",
+    "char": "றூ"
+  },
+  {
+    "letterId": "uyirmei_18_03",
+    "char": "னி"
+  },
+  {
+    "letterId": "uyirmei_18_04",
+    "char": "னீ"
+  },
+  {
+    "letterId": "uyirmei_18_05",
+    "char": "னு"
+  },
+  {
+    "letterId": "uyirmei_18_06",
+    "char": "னூ"
+  }
+]
